@@ -1,8 +1,9 @@
 # Bioinformatician / Data Scientist
 [LinkedIn](https://www.linkedin.com/in/eduardojmesteves/) | [GitHub](https://github.com/eduardojmesteves)  
-Email: eduardojmestves@gmail.com
-Home: Aveiro, Portugal  
-
+<p>Email: eduardojmestves@gmail.com
+</p>
+<p>Home: Aveiro, Portugal  
+</p>
 ---
 
 #### Technical Skills
