@@ -3,11 +3,28 @@
 Email: eduardojmestves@gmail.com
 Home: Aveiro, Portugal  
 
+---
+
 #### Technical Skills
-- **Bioinformatics Tools**: Python, R, SQL/PostgreSQL, Docker, GIT, Linux/UNIX
-- **Data Analysis & Visualization**: Machine Learning, Statistical Analysis, Data Manipulation, Data Visualization
-- **Technical Proficiencies**: Google Cloud Services, Advanced Database Queries, Custom Software Development
-- **Research & Publications**: Extensive experience in academic research, with multiple publications in bioinformatics and computational biology.
+- **Advanced Statistical Analysis**: Biostatistics, Hypothesis Testing, Multivariate Analysis
+- **Programming & Scripting**: Python, R, Julia
+- **Data Manipulation & Pre-processing**: Genomic/Proteomic Data Handling, Cleaning, Transformation
+- **Machine Learning & AI**: ML Techniques, PyTorch
+- **Data Visualization**: Matplotlib, ggplot2, Seaborn, Cytoscape
+- **Database Management**: SQL/PostgreSQL
+- **Cloud Computing & Containerization**: Google Cloud, Docker
+- **Version Control**: GIT, GitHub, GitLab
+- **Operating Systems**: Linux/UNIX, Shell Scripting
+- **Proteomics**: Protein Quantitation, Identification (MS), Purification (HPLC/FPLC), Data Analysis
+- **Genomics**: DNA Isolation, PCR, RT-PCR, Sequence Alignment, NGS Data Analysis
+- **Interactomics**: Host-Pathogen Interaction (OralIn), Cytoscape, GO Enrichment
+- **Network & Pathway Analysis**: Gene Regulatory Networks, KEGG, Reactome
+
+---
+
+#### **Projects**
+
+
 
 ---
 
