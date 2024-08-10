@@ -1,6 +1,6 @@
 title: Eduardo Esteves
-#logo: /assets/img/logo.png
+logo: /assets/img/logo.png
 description: Bioinformatician with a PhD in biomedicine and over 8 years of experience in health data analysis and bioinformatics. Proficient in machine learning, statistical analysis and data visualisation. Proven track record of developing predictive models and transforming complex datasets into actionable insights.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
