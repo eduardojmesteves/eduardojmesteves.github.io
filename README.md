@@ -1,16 +1,13 @@
 # Bioinformatician / Data Scientist
-[LinkedIn](https://www.linkedin.com/in/eduardojmesteves/) | [GitHub](https://github.com/eduardojmesteves)  
-<p>Email: eduardojmestves@gmail.com
-</p>
-<p>Home: Aveiro, Portugal  
-</p>
+<p>[LinkedIn](https://www.linkedin.com/in/eduardojmesteves/) | [Email](eduardojmestves@gmail.com)</p>
+<p>Home: Aveiro, Portugal</p>
 ---
 
-#### Technical Skills
+### Technical Skills
 - **Advanced Statistical Analysis**: Biostatistics, Hypothesis Testing, Multivariate Analysis
 - **Programming & Scripting**: Python, R, Julia
 - **Data Manipulation & Pre-processing**: Genomic/Proteomic Data Handling, Cleaning, Transformation
-- **Machine Learning & AI**: ML Techniques, PyTorch
+- **Machine Learning & AI**: ML Techniques, scikit-learn, PyTorch, Bioconductor
 - **Data Visualization**: Matplotlib, ggplot2, Seaborn, Cytoscape
 - **Database Management**: SQL/PostgreSQL
 - **Cloud Computing & Containerization**: Google Cloud, Docker
@@ -23,9 +20,15 @@
 
 ---
 
-#### **Projects**
+### **Projects**
 
+#### Oral e-Health Monitoring Platform 🦷🩺
+Developed in Django (backend) and Vue (frontend).
+Project funded by CENTRO2020 and the European Regional Development Fund (ERDF), this platform will allow patients to access their oral health history, including diagnoses and treatments carried out, in a clear and objective way. This record can be shared with the new dentist, contributing to correct clinical decision making.
 
+[OeHMP link](https://teethwallet.com/)
+[News](https://fmd.viseu.ucp.pt/pt-pt/noticias/plataforma-oehmp-para-diagnostico-diferenciado-e-tratamentos-inovadores-9346)
+![Home page](assets/img/oehmp.png)
 
 ---
 
