@@ -77,6 +77,16 @@ Project funded by CENTRO2020 and the European Regional Development Fund (ERDF), 
 
 ---
 
+### **Talks & Lectures**
+
+- **Biomolecular Laboratories II** -  Assistant Lecturer, Catholic University of Portugal, September 2020 - August 2021
+
+- **Molecular Biology** - Assistant Lecturer, Catholic University of Portugal, September 2020 - August 2021
+
+- **Seminars Projects** - Assistant Lecturer, Catholic University of Portugal, September 2020 - August 2021
+ 
+---
+
 ### **Education**
 
 **PhD in Biomedicine**  
@@ -94,11 +104,12 @@ Project funded by CENTRO2020 and the European Regional Development Fund (ERDF), 
 
 #### 2024 - Bioinformatics for P2x Single-cell Genomics
 - **Focus**: Single-cell analysis, wet lab techniques, data analysis in Python and R.
+- **Skills**: Single-cell RNA sequencing, data visualization, bioinformatics pipeline development, Python and R programming.
 - **Certificate**: [Bioinformatics for P2x Single-cell Genomics](https://www.p2xcost.eu/who-are-we/)
 
 #### 2024 - Statistical Learning with Python
 - **Focus**: Supervised learning, regression, classification, tree-based methods.
-- **Topics**: Ridge/Lasso, splines, SVMs, neural networks, PCA, clustering.
+- **Skills**: Ridge/Lasso, splines, SVMs, neural networks, PCA, clustering.
 - **Certificate**: [Statistical Learning with Python](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python)
 
 #### 2022 - Data Science
