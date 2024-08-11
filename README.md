@@ -65,6 +65,17 @@ Project funded by CENTRO2020 and the European Regional Development Fund (ERDF), 
 - Utilized R scripts to analyze and visualize bioinformatics data, enhancing data interpretation and presentation in research findings.
 
 ---
+### **Publications**
+
+- [Esteves E, Mendes VM, Manadas B, et al. COVID-19 Salivary Protein Profile: Unravelling Molecular Aspects of SARS-CoV-2 Infection. J Clin Med. 2022;11(19):5571. Published 2022 Sep 22. doi:10.3390/jcm11195571](https://pubmed.ncbi.nlm.nih.gov/36233441/)
+
+- [Esteves E, Mendes AK, Barros M, et al. Population wide testing pooling strategy for SARS-CoV-2 detection using saliva. PLoS One. 2022;17(1):e0263033. Published 2022 Jan 28. doi:10.1371/journal.pone.0263033](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8797214/)
+
+- [Martins JE, D’Alimonte D, Simões J, Sousa S, Esteves E, Rosa N, Correia MJ, Simões M, Barros M. MODeLING.Vis: A Graphical User Interface Toolbox Developed for Machine Learning and Pattern Recognition of Biomolecular Data. Symmetry. 2023; 15(1):42. https://doi.org/10.3390/sym15010042](https://www.mdpi.com/2073-8994/15/1/42)
+
+- [Esteves E, Rosa N, Correia MJ, Arrais JP, Barros M. New Targets for Zika Virus Determined by Human-Viral Interactomic: A Bioinformatics Approach. Biomed Res Int. 2017;2017:1734151. doi:10.1155/2017/1734151](https://pubmed.ncbi.nlm.nih.gov/29379794/)
+
+---
 
 ### **Education**
 
@@ -76,3 +87,41 @@ Project funded by CENTRO2020 and the European Regional Development Fund (ERDF), 
 
 **BsC in Biomedical Sciences**  
 *Catholic University of Portugal, September 2009 - July 2012*
+
+---
+
+### **Advanced Courses**
+
+#### 2024 - Bioinformatics for P2x Single-cell Genomics
+- **Focus**: Single-cell analysis, wet lab techniques, data analysis in Python and R.
+- **Certificate**: [Bioinformatics for P2x Single-cell Genomics](https://www.p2xcost.eu/who-are-we/)
+
+#### 2024 - Statistical Learning with Python
+- **Focus**: Supervised learning, regression, classification, tree-based methods.
+- **Topics**: Ridge/Lasso, splines, SVMs, neural networks, PCA, clustering.
+- **Certificate**: [Statistical Learning with Python](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python)
+
+#### 2022 - Data Science
+- **Focus**: Data preparation, machine learning, and deep learning.
+- **Skills**: Model evaluation, comparison, Industry 4.0 applications.
+- **Certificate**: [Data Science](https://www.unave.pt/wp-content/uploads/2021/10/folheto_DataScience.pdf)
+
+#### 2019 - Data Analysis Using R
+- **Focus**: Data analysis in R.
+- **Skills**: Data manipulation, visualization, using R libraries.
+- **Certificate**: [Data Analysis Using R](https://www.ua.pt/en/news/8/83028)
+
+#### 2019 - Experimental Design and Analysis of Multivariate Data
+- **Focus**: Multivariate data analysis and experimental design.
+- **Skills**: Clustering, hypothesis testing, using PRIMER v6 and PERMANOVA+.
+- **Certificate**: [Experimental Design and Analysis of Multivariate Data](https://www.ua.pt/file/63125)
+
+#### 2018 - Computational Biology
+- **Focus**: Computational biology for biologists and exact scientists.
+- **Skills**: Applied mathematics, physics for biology, mini-research projects.
+- **Certificate**: [Computational Biology](https://www.uc.pt/en/events/computationalbiology/)
+
+#### 2015 - Clinical Investigator Certification
+- **Focus**: Standardizing clinical research training in Europe.
+- **Skills**: Pharmaceutical medicine, clinical research infrastructure.
+- **Certificate**: [CLIC Certificate](https://www.nms.unl.pt/en-us/education/programs/advanced-training/programa-clic-nivel-1-en-us)
