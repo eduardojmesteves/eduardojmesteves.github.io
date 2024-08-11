@@ -4,21 +4,7 @@
 ---
 
 ### Technical Skills
-- **Programming**: Python, R, Julia, Bash/Shell scripting
-- **Data Analysis**: Genomic and proteomic data processing
-- **Statistics & Machine Learning**: Biostatistics, scikit-learn, PyTorch, Bioconductor
-- **Visualization**: Matplotlib, ggplot2, Seaborn, Cytoscape
-- **Database Management**: SQL, PostgreSQL
-- **Cloud & Containers**: Google Cloud, Docker
-- **Version Control**: Git, GitHub, GitLab
-- **Operating Systems**: Linux, UNIX
-- **Proteomics**: Protein quantitation, identification (MS), purification (HPLC/FPLC)
-- **Genomics**: DNA isolation, PCR, RT-PCR, sequence alignment, NGS analysis
-- **Interactomics**: Host-pathogen interactions, Cytoscape, GO enrichment
-- **Network & Pathway Analysis**: Gene regulatory networks, KEGG, Reactome
-
-| **Skill Category**              | **Tools/Technologies**                                               |
-|---------------------------------|----------------------------------------------------------------------|
+----------------------------------------------------------------------|
 | **Programming**                 | Python, R, Julia, Bash/Shell scripting                               |
 | **Data Analysis**               | Genomic and proteomic data processing                                |
 | **Statistics & Machine Learning**| Biostatistics, scikit-learn, PyTorch, Bioconductor                  |
