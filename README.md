@@ -1,5 +1,5 @@
 # Bioinformatician / Data Scientist
-[LinkedIn](https://www.linkedin.com/in/eduardojmesteves/) | [Email](eduardojmestves@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/eduardojmesteves/) | [Email](mailto:eduardojmestves@gmail.com)
 <p>Home: Aveiro, Portugal</p>
 ---
 
@@ -65,7 +65,7 @@ Project funded by CENTRO2020 and the European Regional Development Fund (ERDF), 
 
 ---
 
-#### **Education**
+### **Education**
 
 **PhD in Biomedicine**  
 *University of Beira Interior, September 2018 - July 2023*
