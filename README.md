@@ -1,6 +1,6 @@
 # Bioinformatician / Data Scientist
-[LinkedIn🕴🏼](https://www.linkedin.com/in/eduardojmesteves/) | [Email📧](mailto:eduardojmestves@gmail.com)
-<p>Aveiro, Portugal | Chelmsford, England</p>
+[🕴🏼 LinkedIn](https://www.linkedin.com/in/eduardojmesteves/) | [📧 Email](mailto:eduardojmestves@gmail.com)
+<p>Aveiro, Portugal 🇵🇹 | Chelmsford, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿</p>
 ---
 
 ### Technical Skills
