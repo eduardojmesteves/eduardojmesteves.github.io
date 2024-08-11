@@ -4,19 +4,33 @@
 ---
 
 ### Technical Skills
-- **Advanced Statistical Analysis**: Biostatistics, Hypothesis Testing, Multivariate Analysis
-- **Programming & Scripting**: Python, R, Julia
-- **Data Manipulation & Pre-processing**: Genomic/Proteomic Data Handling, Cleaning, Transformation
-- **Machine Learning & AI**: ML Techniques, scikit-learn, PyTorch, Bioconductor
-- **Data Visualization**: Matplotlib, ggplot2, Seaborn, Cytoscape
-- **Database Management**: SQL/PostgreSQL
-- **Cloud Computing & Containerization**: Google Cloud, Docker
-- **Version Control**: GIT, GitHub, GitLab
-- **Operating Systems**: Linux/UNIX, Shell Scripting
-- **Proteomics**: Protein Quantitation, Identification (MS), Purification (HPLC/FPLC), Data Analysis
-- **Genomics**: DNA Isolation, PCR, RT-PCR, Sequence Alignment, NGS Data Analysis
-- **Interactomics**: Host-Pathogen Interaction (OralIn), Cytoscape, GO Enrichment
-- **Network & Pathway Analysis**: Gene Regulatory Networks, KEGG, Reactome
+- **Programming**: Python, R, Julia, Bash/Shell scripting
+- **Data Analysis**: Genomic and proteomic data processing
+- **Statistics & Machine Learning**: Biostatistics, scikit-learn, PyTorch, Bioconductor
+- **Visualization**: Matplotlib, ggplot2, Seaborn, Cytoscape
+- **Database Management**: SQL, PostgreSQL
+- **Cloud & Containers**: Google Cloud, Docker
+- **Version Control**: Git, GitHub, GitLab
+- **Operating Systems**: Linux, UNIX
+- **Proteomics**: Protein quantitation, identification (MS), purification (HPLC/FPLC)
+- **Genomics**: DNA isolation, PCR, RT-PCR, sequence alignment, NGS analysis
+- **Interactomics**: Host-pathogen interactions, Cytoscape, GO enrichment
+- **Network & Pathway Analysis**: Gene regulatory networks, KEGG, Reactome
+
+| **Skill Category**              | **Tools/Technologies**                                               |
+|---------------------------------|----------------------------------------------------------------------|
+| **Programming**                 | Python, R, Julia, Bash/Shell scripting                               |
+| **Data Analysis**               | Genomic and proteomic data processing                                |
+| **Statistics & Machine Learning**| Biostatistics, scikit-learn, PyTorch, Bioconductor                  |
+| **Visualization**               | Matplotlib, ggplot2, Seaborn, Cytoscape                              |
+| **Database Management**         | SQL, PostgreSQL                                                      |
+| **Cloud & Containers**          | Google Cloud, Docker                                                 |
+| **Version Control**             | Git, GitHub, GitLab                                                  |
+| **Operating Systems**           | Linux, UNIX                                                          |
+| **Proteomics**                  | Protein quantitation, identification (MS), purification (HPLC/FPLC)  |
+| **Genomics**                    | DNA isolation, PCR, RT-PCR, sequence alignment, NGS analysis         |
+| **Interactomics**               | Host-pathogen interactions, Cytoscape, GO enrichment                 |
+| **Network & Pathway Analysis**  | Gene regulatory networks, KEGG, Reactome                             |
 
 ---
 
