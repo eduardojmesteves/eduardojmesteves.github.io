@@ -4,6 +4,7 @@
 ---
 
 ### Technical Skills
+
 | **Programming**                 | Python, R, Julia, Bash/Shell scripting                               |
 | **Data Analysis**               | Genomic and proteomic data processing                                |
 | **Statistics & Machine Learning**| Biostatistics, scikit-learn, PyTorch, Bioconductor                  |
@@ -16,6 +17,7 @@
 | **Genomics**                    | DNA isolation, PCR, RT-PCR, sequence alignment, NGS analysis         |
 | **Interactomics**               | Host-pathogen interactions, Cytoscape, GO enrichment                 |
 | **Network & Pathway Analysis**  | Gene regulatory networks, KEGG, Reactome                             |
+
 
 ---
 
