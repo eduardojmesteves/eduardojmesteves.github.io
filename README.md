@@ -4,7 +4,6 @@
 ---
 
 ### Technical Skills
-----------------------------------------------------------------------|
 | **Programming**                 | Python, R, Julia, Bash/Shell scripting                               |
 | **Data Analysis**               | Genomic and proteomic data processing                                |
 | **Statistics & Machine Learning**| Biostatistics, scikit-learn, PyTorch, Bioconductor                  |
