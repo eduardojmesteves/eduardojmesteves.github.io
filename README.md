@@ -23,9 +23,20 @@
 
 ### **Projects**
 
+#### CoVTec in Saliva - Diagnosis of COVID 19 in saliva 🥼👨🏽‍💻
+An efficient diagnosis of COVID-19 should include non-invasive, inexpensive and self-administered strategies for collecting biological material. Saliva fulfils these requirements. CoVTec aims to develop protocols for saliva processing, SARS-CoV-2 virus detection and host immune response assessment adapted to this fluid. The CoVTec project will allow the implementation of an R&DT platform to support the various SNS institutions in the Viseu region, focusing on diagnostic strategies to respond to this and future pandemics.
+
+TEchnologies: 
+Role:
+
+[Institution Project page](https://ciencia.ucp.pt/en/projects/covtec-em-saliva-diagn%C3%B3stico-da-covid-19-em-saliva)
+
 #### Oral e-Health Monitoring Platform 🦷🩺
 Developed in Django (backend) and Vue (frontend).
 Project funded by CENTRO2020 and the European Regional Development Fund (ERDF), this platform will allow patients to access their oral health history, including diagnoses and treatments carried out, in a clear and objective way. This record can be shared with the new dentist, contributing to correct clinical decision making.
+
+TEchnologies: 
+Role:
 
 [Project Home page](https://teethwallet.com/) | [Project on the media](https://fmd.viseu.ucp.pt/pt-pt/noticias/plataforma-oehmp-para-diagnostico-diferenciado-e-tratamentos-inovadores-9346)
 
