@@ -26,9 +26,11 @@
 #### Oral e-Health Monitoring Platform 🦷🩺
 Developed in Django (backend) and Vue (frontend).
 Project funded by CENTRO2020 and the European Regional Development Fund (ERDF), this platform will allow patients to access their oral health history, including diagnoses and treatments carried out, in a clear and objective way. This record can be shared with the new dentist, contributing to correct clinical decision making.
+<p>
 
-[OeHMP link](https://teethwallet.com/)
-[News](https://fmd.viseu.ucp.pt/pt-pt/noticias/plataforma-oehmp-para-diagnostico-diferenciado-e-tratamentos-inovadores-9346)
+[Project Home page](https://teethwallet.com/) | [Project on the media](https://fmd.viseu.ucp.pt/pt-pt/noticias/plataforma-oehmp-para-diagnostico-diferenciado-e-tratamentos-inovadores-9346)
+
+</p>
 ![Home page](assets/img/oehmp.png)
 
 ---
