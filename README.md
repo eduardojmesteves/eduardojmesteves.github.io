@@ -23,29 +23,19 @@
 
 ### **Projects**
 
-#### Laboratory Information Management System - Open-Source with Odoo framework 👨🏽‍💻🥼
-**Ver no blog ERPGAP**
+#### Disease risk prediction in the tip of the finger 👨🏽‍💻🥼
+Alongside [Prana-Tech](https://prana-tech.co.uk/about_us) we aim to develop and apply Machine-Learning methods to multiple disease cnditions and merge into a user-centric health app.
 
-Technologies: Python
+Technologies: Data analysis, Biostatistics, Machine-Learning.
 Roles: Bioinformatician
-Status: Ongoing
+Status: Ongoing since September 2023
 
-#### Oral Microbiome in people with removable orthodontic ... 👨🏽‍💻🦷
-**Pedir Tese ao Pedro**
+#### Oral Microbiome in people with removable orthodontic devices 👨🏽‍💻🦷
+Conducted the NGS analysis in the thesis "Oral Microbiota in Caries Prevention, Diagnostics and Management – Challenges and Opportunities" from Doctor Pedro C. Lopes.
 
 Technologies: Genomic Data analysis (NGS), Biostatistics
 Roles: Bioinformatician
-Status: Complete January 2024
-
-#### SalivaPRINT Toolkit - Oral diseases 👨🏽‍💻🦷
-**Pedir texto artigo Mariana**
-Protein profile evaluation and phenotype Health VS Oral conditions. Used PLS-DA with R
-
-Technologies: Proteomic data analysis (R), Biostatistics
-Roles: Bioinformatician
-Status: Complete January 2024
-
-
+Status: Complete March 2024
 
 #### Oral e-Health Monitoring Platform 🦷🩺
 Project funded by CENTRO2020 and the European Regional Development Fund (ERDF), this platform will allow patients to access their oral health history, including diagnoses and treatments carried out, in a clear and objective way. This record can be shared with the new dentist, contributing to correct clinical decision making.
@@ -63,9 +53,7 @@ Output: [Esteves E, Mendes VM, Manadas B, et al. COVID-19 Salivary Protein Profi
 
 Technologies: Proteomic Data analysis, Biostatistics, Machine-Learning, Network & Pathway Analysis, Interactomics
 Roles: Research Scientist, Bioinformatician
-Status: Complete July 2023
-
-![Volcano plot protein distribution by protein expression](assets/img/Projects/Volcano%20plot%20protein%20distribution%20by%20protein%20expression.png)
+Status: Complete September 2022
 
 ![Cytoscape OralInt Network visualization](assets/img/Projects/Cytoscape%20OralInt%20Network%20visualization.png)
 
@@ -82,6 +70,9 @@ Roles: Research Scientist, Bioinformatician
 Status: Complete July 2020
 
 [Institution Project page](https://ciencia.ucp.pt/en/projects/covtec-em-saliva-diagn%C3%B3stico-da-covid-19-em-saliva)
+
+[How Odoo helped creating a saliva tests platform in record time](https://www.erpgap.com/blog/odoogap-blog-1/covid-saliva-test-platform/)
+
 ![Home page](assets/img/Projects/oehmp.png)
 
 #### SalivaPRINT Toolkit – Protein profile evaluation and phenotype stratification 🥼👨🏽‍💻
@@ -89,7 +80,7 @@ SalivaPRINT Toolkit enables the analysis of protein profile patterns by the iden
 
 Technologies: Python in software development and in data analysis.
 Roles: Research Scientist, Bioinformatician
-Status: Complete July 2017??
+Status: Complete January 2017
 
 ![Graphical representation of the molecular weight classification of individuals](assets/img/Projects/Graphical%20representation%20of%20the%20molecular%20weight%20influence.png)
 
