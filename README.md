@@ -26,34 +26,34 @@
 #### Disease risk prediction in the tip of the finger 👨🏽‍💻🥼
 Alongside [Prana-Tech](https://prana-tech.co.uk/about_us) we aim to develop and apply Machine-Learning methods to multiple disease cnditions and merge into a user-centric health app.
 
-Technologies: Data analysis, Biostatistics, Machine-Learning.
-Roles: Bioinformatician
-Status: Ongoing since September 2023
+- Technologies: Data analysis, Biostatistics, Machine-Learning.
+- Roles: Bioinformatician
+- Status: Ongoing since September 2023
 
 #### Oral Microbiome in people with removable orthodontic devices 👨🏽‍💻🦷
 Conducted the NGS analysis in the thesis "Oral Microbiota in Caries Prevention, Diagnostics and Management – Challenges and Opportunities" from Doctor Pedro C. Lopes.
 
-Technologies: Genomic Data analysis (NGS), Biostatistics
-Roles: Bioinformatician
-Status: Complete March 2024
+- Technologies: Genomic Data analysis (NGS), Biostatistics
+- Roles: Bioinformatician
+- Status: Complete March 2024
 
 #### Oral e-Health Monitoring Platform 🦷🩺
 Project funded by CENTRO2020 and the European Regional Development Fund (ERDF), this platform will allow patients to access their oral health history, including diagnoses and treatments carried out, in a clear and objective way. This record can be shared with the new dentist, contributing to correct clinical decision making.
 
-Technologies: Django (backend) and Vue (frontend).
-Role: Project Manager
-Status: Complete July 2023
+- Technologies: Django (backend) and Vue (frontend).
+- Role: Project Manager
+- Status: Complete July 2023
 
 [Project Home page](https://teethwallet.com/) | [Project on the media](https://fmd.viseu.ucp.pt/pt-pt/noticias/plataforma-oehmp-para-diagnostico-diferenciado-e-tratamentos-inovadores-9346)
 
 #### COVID-19 Salivary Protein Profile 🥼👨🏽‍💻
 We developed a hybrid proteomics and in silico interactomics strategy to establish a COVID-19 salivary protein profile. The differential proteome was narrowed down by the Partial Least-Squares Discriminant Analysis and enrichment analysis was performed with FunRich. In parallel, OralInt was used to determine interspecies Protein-Protein Interactions between humans and SARS-CoV-2. Five dysregulated biological processes were identified in the COVID-19 proteome profile: Apoptosis, Energy Pathways, Immune Response, Protein Metabolism and Transport. We identified 10 proteins (KLK 11, IMPA2, ANXA7, PLP2, IGLV2-11, IGHV3-43D, IGKV2-24, TMEM165, VSIG10 and PHB2) that had never been associated with SARS-CoV-2 infection, representing new evidence of the impact of COVID-19. Interactomics analysis showed viral influence on the host immune response, mainly through interaction with the degranulation of neutrophils. The virus alters the host’s energy metabolism and interferes with apoptosis mechanisms.
 
-Output: [Esteves E, Mendes VM, Manadas B, et al. COVID-19 Salivary Protein Profile: Unravelling Molecular Aspects of SARS-CoV-2 Infection. J Clin Med. 2022;11(19):5571. Published 2022 Sep 22. doi:10.3390/jcm11195571](https://pubmed.ncbi.nlm.nih.gov/36233441/)
+- Output: [Esteves E, Mendes VM, Manadas B, et al. COVID-19 Salivary Protein Profile: Unravelling Molecular Aspects of SARS-CoV-2 Infection. J Clin Med. 2022;11(19):5571. Published 2022 Sep 22. doi:10.3390/jcm11195571](https://pubmed.ncbi.nlm.nih.gov/36233441/)
 
-Technologies: Proteomic Data analysis, Biostatistics, Machine-Learning, Network & Pathway Analysis, Interactomics
-Roles: Research Scientist, Bioinformatician
-Status: Complete September 2022
+- Technologies: Proteomic Data analysis, Biostatistics, Machine-Learning, Network & Pathway Analysis, Interactomics
+- Roles: Research Scientist, Bioinformatician
+- Status: Complete September 2022
 
 ![Cytoscape OralInt Network visualization](assets/img/Projects/Cytoscape%20OralInt%20Network%20visualization.png)
 
@@ -63,11 +63,11 @@ Status: Complete September 2022
 CoVTec aims to develop protocols for saliva processing, SARS-CoV-2 virus detection and host immune response assessment adapted to this fluid. The CoVTec project allowed the implementation of an R&DT platform to support the various SNS institutions in the Viseu (Portugal) region, focusing on diagnostic strategies to respond to this and future pandemics.
 We have developed a platform to collect patient data, randomizing the patient data and offering a streamline operation from Medical staff in the Hospital to the Laboratory personal to have access to real time data and accessible according to the roles pre-defined.
 
-Output: [Esteves E, Mendes AK, Barros M, et al. Population wide testing pooling strategy for SARS-CoV-2 detection using saliva. PLoS One. 2022;17(1):e0263033. Published 2022 Jan 28. doi:10.1371/journal.pone.0263033](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8797214/)
+- Output: [Esteves E, Mendes AK, Barros M, et al. Population wide testing pooling strategy for SARS-CoV-2 detection using saliva. PLoS One. 2022;17(1):e0263033. Published 2022 Jan 28. doi:10.1371/journal.pone.0263033](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8797214/)
 
-Technologies: Python in software development and in data analysis.
-Roles: Research Scientist, Bioinformatician
-Status: Complete July 2020
+- Technologies: Python in software development and in data analysis.
+- Roles: Research Scientist, Bioinformatician
+- Status: Complete July 2020
 
 [Institution Project page](https://ciencia.ucp.pt/en/projects/covtec-em-saliva-diagn%C3%B3stico-da-covid-19-em-saliva)
 
@@ -78,9 +78,9 @@ Status: Complete July 2020
 #### SalivaPRINT Toolkit – Protein profile evaluation and phenotype stratification 🥼👨🏽‍💻
 SalivaPRINT Toolkit enables the analysis of protein profile patterns by the identification of molecular weight ranges altered in a particular condition and therefore potentially involved in the underlying dysregulated mechanisms. SalivaPRINT Toolkit is a CLI for electrophoretic protein profile evaluation.
 
-Technologies: Python in software development and in data analysis.
-Roles: Research Scientist, Bioinformatician
-Status: Complete January 2017
+- Technologies: Python in software development and in data analysis.
+- Roles: Research Scientist, Bioinformatician
+- Status: Complete January 2017
 
 ![Graphical representation of the molecular weight classification of individuals](assets/img/Projects/Graphical%20representation%20of%20the%20molecular%20weight%20influence.png)
 
