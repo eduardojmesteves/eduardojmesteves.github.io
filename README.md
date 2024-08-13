@@ -30,8 +30,10 @@ Alongside [Prana-Tech](https://prana-tech.co.uk/about_us) we aim to develop and 
 - Roles: Bioinformatician
 - Status: Ongoing since September 2023
 
-#### Oral Microbiome in people with removable orthodontic devices 👨🏽‍💻🦷
-Conducted the NGS analysis in the thesis "Oral Microbiota in Caries Prevention, Diagnostics and Management – Challenges and Opportunities" from Doctor Pedro C. Lopes.
+#### Oral Microbiome profile in Clear Aligner Patients During Treatment 👨🏽‍💻🦷
+The analysis of NGS microbial hypervariable regions of 16S rDNA focused on evaluating bacterial species diversity within samples using alpha diversity metrics like Shannon, Simpson, and Chao1. These metrics assess species richness and evenness (Shannon and Simpson) or species richness alone (Chao1). The study compared diversity in different sample types (saliva and biofilm) and between initial (T0) and final (T2 or T3) treatment time points to observe changes in microbial communities over time.
+
+- Output: PhD thesis presented by Dr. Pedro C. Lopes', titled "Oral Microbiota in Caries Prevention, Diagnosis and Management - Challenges and Opportunities"
 
 - Technologies: Genomic Data analysis (NGS), Biostatistics
 - Roles: Bioinformatician
