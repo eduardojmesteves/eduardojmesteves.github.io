@@ -26,25 +26,25 @@
 #### Disease risk prediction in the tip of the finger 👨🏽‍💻🥼
 Alongside [Prana-Tech](https://prana-tech.co.uk/about_us) we aim to develop and apply Machine-Learning methods to multiple disease cnditions and merge into a user-centric health app.
 
-- Technologies: Data analysis, Biostatistics, Machine-Learning.
-- Roles: Bioinformatician
-- Status: Ongoing since September 2023
+Technologies | Data analysis, Biostatistics, Machine-Learning.
+Roles | Bioinformatician
+Status | Ongoing since September 2023
 
 #### Oral Microbiome profile in Clear Aligner Patients During Treatment 👨🏽‍💻🦷
 The analysis of NGS microbial hypervariable regions of 16S rDNA focused on evaluating bacterial species diversity within samples using alpha diversity metrics like Shannon, Simpson, and Chao1. These metrics assess species richness and evenness (Shannon and Simpson) or species richness alone (Chao1). The study compared diversity in different sample types (saliva and biofilm) and between initial (T0) and final (T2 or T3) treatment time points to observe changes in microbial communities over time.
 
 - Output: PhD thesis presented by Dr. Pedro C. Lopes', titled "Oral Microbiota in Caries Prevention, Diagnosis and Management - Challenges and Opportunities"
 
-- Technologies: Genomic Data analysis (NGS), Biostatistics
-- Roles: Bioinformatician
-- Status: Complete March 2024
+Technologies | Genomic Data analysis (NGS), Biostatistics
+Roles | Bioinformatician
+Status | Complete March 2024
 
 #### Oral e-Health Monitoring Platform 🦷🩺
 Project funded by CENTRO2020 and the European Regional Development Fund (ERDF), this platform will allow patients to access their oral health history, including diagnoses and treatments carried out, in a clear and objective way. This record can be shared with the new dentist, contributing to correct clinical decision making.
 
-- Technologies: Django (backend) and Vue (frontend).
-- Role: Project Manager
-- Status: Complete July 2023
+Technologies | Django (backend) and Vue (frontend).
+Role | Project Manager
+Status | Complete July 2023
 
 [Project Home page](https://teethwallet.com/) | [Project on the media](https://fmd.viseu.ucp.pt/pt-pt/noticias/plataforma-oehmp-para-diagnostico-diferenciado-e-tratamentos-inovadores-9346)
 
@@ -53,9 +53,9 @@ This study combined proteomics and in silico interactomics to generate a salivar
 
 - Output: [Esteves E, Mendes VM, Manadas B, et al. COVID-19 Salivary Protein Profile: Unravelling Molecular Aspects of SARS-CoV-2 Infection. J Clin Med. 2022;11(19):5571. Published 2022 Sep 22. doi:10.3390/jcm11195571](https://pubmed.ncbi.nlm.nih.gov/36233441/)
 
-- Technologies: Proteomic Data analysis, Biostatistics, Machine-Learning, Network & Pathway Analysis, Interactomics
-- Roles: Research Scientist, Bioinformatician
-- Status: Complete September 2022
+Technologies | Proteomic Data analysis, Biostatistics, Machine-Learning, Network & Pathway Analysis, Interactomics
+Roles | Research Scientist, Bioinformatician
+Status | Complete September 2022
 
 ![Cytoscape OralInt Network visualization](assets/img/Projects/Cytoscape%20OralInt%20Network%20visualization.png)
 
@@ -66,9 +66,9 @@ The CoVTec project focuses on developing protocols for processing saliva, detect
 
 - Output: [Esteves E, Mendes AK, Barros M, et al. Population wide testing pooling strategy for SARS-CoV-2 detection using saliva. PLoS One. 2022;17(1):e0263033. Published 2022 Jan 28. doi:10.1371/journal.pone.0263033](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8797214/)
 
-- Technologies: Python in software development and in data analysis.
-- Roles: Research Scientist, Bioinformatician
-- Status: Complete July 2020
+Technologies | Python in software development and in data analysis.
+Roles | Research Scientist, Bioinformatician
+Status | Complete July 2020
 
 [Institution Project page](https://ciencia.ucp.pt/en/projects/covtec-em-saliva-diagn%C3%B3stico-da-covid-19-em-saliva)
 
@@ -79,9 +79,9 @@ The CoVTec project focuses on developing protocols for processing saliva, detect
 #### SalivaPRINT Toolkit – Protein profile evaluation and phenotype stratification 🥼👨🏽‍💻
 SalivaPRINT Toolkit enables the analysis of protein profile patterns by the identification of molecular weight ranges altered in a particular condition and therefore potentially involved in the underlying dysregulated mechanisms. SalivaPRINT Toolkit is a CLI for electrophoretic protein profile evaluation.
 
-- Technologies: Python in software development and in data analysis.
-- Roles: Research Scientist, Bioinformatician
-- Status: Complete January 2017
+Technologies | Python in software development and in data analysis.
+Roles | Research Scientist, Bioinformatician
+Status | Complete January 2017
 
 ![Graphical representation of the molecular weight classification of individuals](assets/img/Projects/Graphical%20representation%20of%20the%20molecular%20weight%20influence.png)
 
@@ -139,24 +139,21 @@ SalivaPRINT Toolkit enables the analysis of protein profile patterns by the iden
 
 ### **Talks & Lectures**
 
-- **Biomolecular Laboratories II** -  Assistant Lecturer, Catholic University of Portugal, September 2020 - August 2021
-
-- **Molecular Biology** - Assistant Lecturer, Catholic University of Portugal, September 2020 - August 2021
-
-- **Seminars Projects** - Assistant Lecturer, Catholic University of Portugal, September 2020 - August 2021
+| **Course**                   | **Position**          | **Institution**                      | **Start Date**  | **End Date**    |
+|------------------------------|-----------------------|--------------------------------------|-----------------|-----------------|
+| Biomolecular Laboratories II | Assistant Lecturer    | Catholic University of Portugal      | September 2020  | August 2021     |
+| Molecular Biology            | Assistant Lecturer    | Catholic University of Portugal      | September 2020  | August 2021     |
+| Seminars Projects            | Assistant Lecturer    | Catholic University of Portugal      | September 2020  | August 2021     |
 
 ---
 
 ### **Education**
 
-**PhD in Biomedicine**  
-*University of Beira Interior, September 2018 - July 2023*
+**PhD in Biomedicine** | *University of Beira Interior, September 2018 - July 2023*
 
-**MsC in Cell and Molecular Biology**  
-*University of Aveiro, September 2012 - December 2014*
+**MsC in Cell and Molecular Biology** | *University of Aveiro, September 2012 - December 2014*
 
-**BsC in Biomedical Sciences**  
-*Catholic University of Portugal, September 2009 - July 2012*
+**BsC in Biomedical Sciences** | *Catholic University of Portugal, September 2009 - July 2012*
 
 ---
 
