@@ -83,7 +83,7 @@ Technologies | Python in software development and in data analysis.
 Roles | Research Scientist, Bioinformatician
 Status | Complete January 2017
 
-![Graphical representation of the molecular weight classification of individuals](assets/img/Projects/Graphical%20representation%20of%20the%20molecular%20weight%20influence.png)
+![Graphical representation of the molecular weight classification of individuals](assets/img/Projects/Graphical%20representation%20of%20the%20molecular%20weight%20influence.jpg)
 
 [GitHub Repository](https://github.com/salivatec/SalivaPRINT)
 
@@ -149,11 +149,11 @@ Status | Complete January 2017
 
 ### **Education**
 
-**PhD in Biomedicine** | *University of Beira Interior, September 2018 - July 2023*
+**PhD in Biomedicine** | *University of Beira Interior (July 2023)*
 
-**MsC in Cell and Molecular Biology** | *University of Aveiro, September 2012 - December 2014*
+**MsC in Cell and Molecular Biology** | *University of Aveiro (December 2014)*
 
-**BsC in Biomedical Sciences** | *Catholic University of Portugal, September 2009 - July 2012*
+**BsC in Biomedical Sciences** | *Catholic University of Portugal (July 2012)*
 
 ---
 
