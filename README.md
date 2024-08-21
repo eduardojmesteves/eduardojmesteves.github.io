@@ -157,8 +157,6 @@ Status | Complete January 2017
 
 ---
 
----
-
 ### **Advanced Courses**
 
 #### 2024 - Bioinformatics for P2x Single-cell Genomics
