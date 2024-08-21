@@ -151,11 +151,11 @@ Status | Complete January 2017
 
 ### **Education**
 
-**PhD in Biomedicine** | *University of Beira Interior (July 2023)*
+**PhD in Biomedicine**                                       | *University of Beira Interior (July 2023)*
+**MSc in Cell and Molecular Biology**               | *University of Aveiro (December 2014)*
+**BSc in Biomedical Sciences**                        | *Catholic University of Portugal (July 2012)*
 
-**MsC in Cell and Molecular Biology** | *University of Aveiro (December 2014)*
-
-**BsC in Biomedical Sciences** | *Catholic University of Portugal (July 2012)*
+---
 
 ---
 
