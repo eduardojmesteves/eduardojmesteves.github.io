@@ -1,4 +1,5 @@
 # Bioinformatician / Data Scientist
+
 [🕴🏼 LinkedIn](https://www.linkedin.com/in/eduardojmesteves/) | [📧 Email](mailto:eduardojmestves@gmail.com)
 <p>Aveiro, Portugal 🇵🇹 | Chelmsford, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿</p>
 ---
@@ -24,6 +25,7 @@
 ### **Projects**
 
 #### Disease risk prediction in the tip of the finger 👨🏽‍💻🥼
+
 Alongside [Prana-Tech](https://prana-tech.co.uk/about_us) we aim to develop and apply Machine-Learning methods to multiple disease cnditions and merge into a user-centric health app.
 
 Technologies | Data analysis, Biostatistics, Machine-Learning.
@@ -31,6 +33,7 @@ Roles | Bioinformatician
 Status | Ongoing since September 2023
 
 #### Oral Microbiome profile in Clear Aligner Patients During Treatment 👨🏽‍💻🦷
+
 The analysis of NGS microbial hypervariable regions of 16S rDNA focused on evaluating bacterial species diversity within samples using alpha diversity metrics like Shannon, Simpson, and Chao1. These metrics assess species richness and evenness (Shannon and Simpson) or species richness alone (Chao1). The study compared diversity in different sample types (saliva and biofilm) and between initial (T0) and final (T2 or T3) treatment time points to observe changes in microbial communities over time.
 
 - Output: PhD thesis presented by Dr. Pedro C. Lopes', titled "Oral Microbiota in Caries Prevention, Diagnosis and Management - Challenges and Opportunities"
@@ -40,6 +43,7 @@ Roles | Bioinformatician
 Status | Complete March 2024
 
 #### Oral e-Health Monitoring Platform 🦷🩺
+
 Project funded by CENTRO2020 and the European Regional Development Fund (ERDF), this platform will allow patients to access their oral health history, including diagnoses and treatments carried out, in a clear and objective way. This record can be shared with the new dentist, contributing to correct clinical decision making.
 
 Technologies | Django (backend) and Vue (frontend).
@@ -49,6 +53,7 @@ Status | Complete July 2023
 [Project Home page](https://teethwallet.com/) | [Project on the media](https://fmd.viseu.ucp.pt/pt-pt/noticias/plataforma-oehmp-para-diagnostico-diferenciado-e-tratamentos-inovadores-9346)
 
 #### COVID-19 Salivary Protein Profile 🥼👨🏽‍💻
+
 This study combined proteomics and in silico interactomics to generate a salivary protein profile for COVID-19. Techniques such as partial least squares discriminant analysis and enrichment analysis with FunRich were used to narrow down the differential proteome. OralInt was used to investigate protein-protein interactions between the host and SARS-CoV-2. The analysis identified five dysregulated biological processes in COVID-19: apoptosis, energy pathways, immune response, protein metabolism and transport. Ten proteins not previously associated with SARS-CoV-2 were discovered, revealing new aspects of the virus' effects. The study also showed that SARS-CoV-2 affects the host's immune response, energy metabolism and apoptosis mechanisms.
 
 - Output: [Esteves E, Mendes VM, Manadas B, et al. COVID-19 Salivary Protein Profile: Unravelling Molecular Aspects of SARS-CoV-2 Infection. J Clin Med. 2022;11(19):5571. Published 2022 Sep 22. doi:10.3390/jcm11195571](https://pubmed.ncbi.nlm.nih.gov/36233441/)
@@ -62,6 +67,7 @@ Status | Complete September 2022
 ![Cerebral View](assets/img/Projects/Cerebral%20View.png)
 
 #### CoVTec in Saliva - Diagnosis of COVID 19 in saliva 🥼👨🏽‍💻
+
 The CoVTec project focuses on developing protocols for processing saliva, detecting SARS-CoV-2, and assessing the host immune response using saliva samples. It has established an R&DT platform to support healthcare institutions in the Viseu region of Portugal, enhancing diagnostic strategies for current and future pandemics. The project also created a platform for real-time data collection and randomization, enabling streamlined operations and controlled data access for medical staff and laboratory personnel based on pre-defined roles.
 
 - Output: [Esteves E, Mendes AK, Barros M, et al. Population wide testing pooling strategy for SARS-CoV-2 detection using saliva. PLoS One. 2022;17(1):e0263033. Published 2022 Jan 28. doi:10.1371/journal.pone.0263033](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8797214/)
@@ -77,6 +83,7 @@ Status | Complete July 2020
 ![Home page](assets/img/Projects/oehmp.png)
 
 #### SalivaPRINT Toolkit – Protein profile evaluation and phenotype stratification 🥼👨🏽‍💻
+
 SalivaPRINT Toolkit enables the analysis of protein profile patterns by the identification of molecular weight ranges altered in a particular condition and therefore potentially involved in the underlying dysregulated mechanisms. SalivaPRINT Toolkit is a CLI for electrophoretic protein profile evaluation.
 
 Technologies | Python in software development and in data analysis.
@@ -104,38 +111,35 @@ Status | Complete January 2017
 ---
 
 ### **EXPERIENCE**
-**Data Scientist, Prana-Tech, Ltd**  
+
+**Bioinformatician / Data Scientist, Prana-Tech, Ltd**  
 *September 2023 - Present*
-- Developed machine learning models for predicting health outcomes, with a focus on handling and analyzing high-dimensional biological data.
-- Conducted feasibility assessments of bioinformatics approaches, optimizing model selection based on data characteristics.
-- Designed and implemented visualization tools for complex bioinformatics datasets, improving interpretability and user experience.
-- Managed health questionnaires and genomic data analysis, converting raw bioinformatics data into actionable insights for clinical applications.
-- Collaborated with cross-functional teams to integrate bioinformatics models into healthcare applications, ensuring usability and functionality.
 
-**PhD Research Fellow, Catholic University of Portugal**  
-*September 2018 - August 2021*
+- Developed machine learning models to predict health outcomes.
+- Analysed health questionnaires and blood data to generate actionable insights.
+- Evaluated the feasibility of modelling approaches optimised for health data characteristics.
+- Integrated ML models into healthcare applications, ensuring functionality and usability.
+- Designed and implemented visualisation dashboards to improve data interpretability.
 
-- Led the development of innovative diagnostic strategies, including the bioinformatics analysis of proteomics data for COVID-19 detection in saliva.
-- Conducted extensive MS proteomics research, utilizing bioinformatics tools to identify host protein responses to SARS-CoV-2.
-- Served as the principal investigator for the CoVTec in Saliva project, applying bioinformatics to develop saliva-based COVID-19 tests.
-- Developed and maintained custom bioinformatics software for the analysis and visualization of clinical data, using Python, R, HTML, and JavaScript.
 
 **Project Manager / Junior Software Developer, PromptEquation, Lda**  
 *September 2021 - Present*
 
-- Onboarded and managed multiple bioinformatics projects, leveraging analytical skills to assess and fulfill complex project requirements.
-- Applied data analysis techniques, including database queries and BI tools, to generate detailed reports for bioinformatics research.
-- Developed Python scripts and tools for bioinformatics data analysis and reporting, optimizing performance and accuracy.
+- Managed projects through requirements analysis, budget optimisation and accurate documentation of customer requirements.
+- Developed and adapted Python scripts and the Odoo framework.
+- Performed advanced database queries in PostgreSQL for data management and analysis.
+- Used BI tools and dashboards to produce detailed reports for decision making.
 
-**MsC Research Fellow, Catholic University of Portugal**  
-*September 2015 - August 2018*
 
-- Developed SOPs for bioinformatics-driven analyte testing, ensuring the integrity of biospecimens and accuracy of data analysis.
-- Provided bioinformatics support for software application design, testing, and development, particularly in genomic data processing.
-- Utilized R scripts to analyze and visualize bioinformatics data, enhancing data interpretation and presentation in research findings.
+**Research Fellow, Catholic University of Portugal**  
+*September 2015 - August 2021*
+
+- Performed MS-based proteomic analysis to characterise protein responses to SARS-CoV-2.
+- Performed advanced data analysis and visualisation using Python and R on genomic and proteomic datasets.
+- Developed custom software to store, analyse and visualise clinical data from NGS and MS sources.
+- Implemented COVID-19 saliva-based diagnostic protocols integrating genomic and proteomic data.
 
 ---
-
 
 ### **Talks & Lectures**
 
@@ -160,36 +164,43 @@ Status | Complete January 2017
 ### **Advanced Courses**
 
 #### 2024 - Bioinformatics for P2x Single-cell Genomics
+
 - **Focus**: Single-cell analysis, wet lab techniques, data analysis in Python and R.
 - **Skills**: Single-cell RNA sequencing, data visualization, bioinformatics pipeline development, Python and R programming.
 - **Certificate**: [Bioinformatics for P2x Single-cell Genomics](https://www.p2xcost.eu/who-are-we/)
 
 #### 2024 - Statistical Learning with Python
+
 - **Focus**: Supervised learning, regression, classification, tree-based methods.
 - **Skills**: Ridge/Lasso, splines, SVMs, neural networks, PCA, clustering.
 - **Certificate**: [Statistical Learning with Python](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python)
 
 #### 2022 - Data Science
+
 - **Focus**: Data preparation, machine learning, and deep learning.
 - **Skills**: Model evaluation, comparison, Industry 4.0 applications.
 - **Certificate**: [Data Science](https://www.unave.pt/wp-content/uploads/2021/10/folheto_DataScience.pdf)
 
 #### 2019 - Data Analysis Using R
+
 - **Focus**: Data analysis in R.
 - **Skills**: Data manipulation, visualization, using R libraries.
 - **Certificate**: [Data Analysis Using R](https://www.ua.pt/en/news/8/83028)
 
 #### 2019 - Experimental Design and Analysis of Multivariate Data
+
 - **Focus**: Multivariate data analysis and experimental design.
 - **Skills**: Clustering, hypothesis testing, using PRIMER v6 and PERMANOVA+.
 - **Certificate**: [Experimental Design and Analysis of Multivariate Data](https://www.ua.pt/file/63125)
 
 #### 2018 - Computational Biology
+
 - **Focus**: Computational biology for biologists and exact scientists.
 - **Skills**: Applied mathematics, physics for biology, mini-research projects.
 - **Certificate**: [Computational Biology](https://www.uc.pt/en/events/computationalbiology/)
 
 #### 2015 - Clinical Investigator Certification
+
 - **Focus**: Standardizing clinical research training in Europe.
 - **Skills**: Pharmaceutical medicine, clinical research infrastructure.
 - **Certificate**: [CLIC Certificate](https://www.nms.unl.pt/en-us/education/programs/advanced-training/programa-clic-nivel-1-en-us)
