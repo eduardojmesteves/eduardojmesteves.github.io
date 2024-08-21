@@ -112,7 +112,7 @@ Status | Complete January 2017
 
 ### **EXPERIENCE**
 
-**Bioinformatician / Data Scientist, Prana-Tech, Ltd**  
+**Bioinformatician / Data Scientist** - Prana-Tech, Ltd
 *September 2023 - Present*
 
 - Developed machine learning models to predict health outcomes.
@@ -121,8 +121,7 @@ Status | Complete January 2017
 - Integrated ML models into healthcare applications, ensuring functionality and usability.
 - Designed and implemented visualisation dashboards to improve data interpretability.
 
-
-**Project Manager / Junior Software Developer, PromptEquation, Lda**  
+**Project Manager / Junior Software Developer** *- PromptEquation, Lda*
 *September 2021 - Present*
 
 - Managed projects through requirements analysis, budget optimisation and accurate documentation of customer requirements.
@@ -130,8 +129,7 @@ Status | Complete January 2017
 - Performed advanced database queries in PostgreSQL for data management and analysis.
 - Used BI tools and dashboards to produce detailed reports for decision making.
 
-
-**Research Fellow, Catholic University of Portugal**  
+**Research Fellow** - Catholic University of Portugal
 *September 2015 - August 2021*
 
 - Performed MS-based proteomic analysis to characterise protein responses to SARS-CoV-2.
