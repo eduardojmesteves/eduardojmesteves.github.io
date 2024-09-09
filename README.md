@@ -32,6 +32,16 @@ Technologies | Data analysis, Biostatistics, Machine-Learning.
 Roles | Bioinformatician
 Status | Ongoing since September 2023
 
+#### Oral e-Health Monitoring Platform - Co Founder 🦷🩺
+
+Project funded by CENTRO2020 and the European Regional Development Fund (ERDF), this platform will allow patients to access their oral health history, including diagnoses and treatments carried out, in a clear and objective way. This record can be shared with the new dentist, contributing to correct clinical decision making.
+
+Technologies | Django (backend) and Vue (frontend).
+Role | Project Manager
+Status | Complete July 2023
+
+[Project Home page](https://teethwallet.com/) | [Project on the media](https://fmd.viseu.ucp.pt/pt-pt/noticias/plataforma-oehmp-para-diagnostico-diferenciado-e-tratamentos-inovadores-9346)
+
 #### Oral Microbiome profile in Clear Aligner Patients During Treatment 👨🏽‍💻🦷
 
 The analysis of NGS microbial hypervariable regions of 16S rDNA focused on evaluating bacterial species diversity within samples using alpha diversity metrics like Shannon, Simpson, and Chao1. These metrics assess species richness and evenness (Shannon and Simpson) or species richness alone (Chao1). The study compared diversity in different sample types (saliva and biofilm) and between initial (T0) and final (T2 or T3) treatment time points to observe changes in microbial communities over time.
@@ -41,16 +51,6 @@ The analysis of NGS microbial hypervariable regions of 16S rDNA focused on evalu
 Technologies | Genomic Data analysis (NGS), Biostatistics
 Roles | Bioinformatician
 Status | Complete March 2024
-
-#### Oral e-Health Monitoring Platform 🦷🩺
-
-Project funded by CENTRO2020 and the European Regional Development Fund (ERDF), this platform will allow patients to access their oral health history, including diagnoses and treatments carried out, in a clear and objective way. This record can be shared with the new dentist, contributing to correct clinical decision making.
-
-Technologies | Django (backend) and Vue (frontend).
-Role | Project Manager
-Status | Complete July 2023
-
-[Project Home page](https://teethwallet.com/) | [Project on the media](https://fmd.viseu.ucp.pt/pt-pt/noticias/plataforma-oehmp-para-diagnostico-diferenciado-e-tratamentos-inovadores-9346)
 
 #### COVID-19 Salivary Protein Profile 🥼👨🏽‍💻
 
@@ -136,6 +136,14 @@ Status | Complete January 2017
 - Performed advanced data analysis and visualisation using Python and R on genomic and proteomic datasets.
 - Developed custom software to store, analyse and visualise clinical data from NGS and MS sources.
 - Implemented COVID-19 saliva-based diagnostic protocols integrating genomic and proteomic data.
+
+**Research Assistant Lecturer** - Catholic University of Portugal\
+*September 2017 - August 2018*\
+*Spetember 2020 - August 2021*
+
+- Helped students develop critical thinking and research skills.
+- Led laboratory sessions that combined hands-on work with computer-based learning.
+- Established new partnerships between industry and academia to ensure students are ready for the world of work.
 
 ---
 
