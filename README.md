@@ -22,94 +22,6 @@
 
 ---
 
-### **Projects**
-
-#### Disease risk prediction in the tip of the finger 👨🏽‍💻🥼
-
-Alongside [Prana-Tech](https://prana-tech.co.uk/about_us) we aim to develop and apply Machine-Learning methods to multiple disease cnditions and merge into a user-centric health app.
-
-Technologies | Data analysis, Biostatistics, Machine-Learning.
-Roles | Bioinformatician
-Status | Ongoing since September 2023
-
-#### Oral e-Health Monitoring Platform - Co Founder 🦷🩺
-
-Project funded by CENTRO2020 and the European Regional Development Fund (ERDF), this platform will allow patients to access their oral health history, including diagnoses and treatments carried out, in a clear and objective way. This record can be shared with the new dentist, contributing to correct clinical decision making.
-
-Technologies | Django (backend) and Vue (frontend).
-Role | Project Manager
-Status | Complete July 2023
-
-[Project Home page](https://teethwallet.com/) | [Project on the media](https://fmd.viseu.ucp.pt/pt-pt/noticias/plataforma-oehmp-para-diagnostico-diferenciado-e-tratamentos-inovadores-9346)
-
-#### Oral Microbiome profile in Clear Aligner Patients During Treatment 👨🏽‍💻🦷
-
-The analysis of NGS microbial hypervariable regions of 16S rDNA focused on evaluating bacterial species diversity within samples using alpha diversity metrics like Shannon, Simpson, and Chao1. These metrics assess species richness and evenness (Shannon and Simpson) or species richness alone (Chao1). The study compared diversity in different sample types (saliva and biofilm) and between initial (T0) and final (T2 or T3) treatment time points to observe changes in microbial communities over time.
-
-- Output: PhD thesis presented by Dr. Pedro C. Lopes', titled "Oral Microbiota in Caries Prevention, Diagnosis and Management - Challenges and Opportunities"
-
-Technologies | Genomic Data analysis (NGS), Biostatistics
-Roles | Bioinformatician
-Status | Complete March 2024
-
-#### COVID-19 Salivary Protein Profile 🥼👨🏽‍💻
-
-This study combined proteomics and in silico interactomics to generate a salivary protein profile for COVID-19. Techniques such as partial least squares discriminant analysis and enrichment analysis with FunRich were used to narrow down the differential proteome. OralInt was used to investigate protein-protein interactions between the host and SARS-CoV-2. The analysis identified five dysregulated biological processes in COVID-19: apoptosis, energy pathways, immune response, protein metabolism and transport. Ten proteins not previously associated with SARS-CoV-2 were discovered, revealing new aspects of the virus' effects. The study also showed that SARS-CoV-2 affects the host's immune response, energy metabolism and apoptosis mechanisms.
-
-- Output: [Esteves E, Mendes VM, Manadas B, et al. COVID-19 Salivary Protein Profile: Unravelling Molecular Aspects of SARS-CoV-2 Infection. J Clin Med. 2022;11(19):5571. Published 2022 Sep 22. doi:10.3390/jcm11195571](https://pubmed.ncbi.nlm.nih.gov/36233441/)
-
-Technologies | Proteomic Data analysis, Biostatistics, Machine-Learning, Network & Pathway Analysis, Interactomics
-Roles | Research Scientist, Bioinformatician
-Status | Complete September 2022
-
-![Cytoscape OralInt Network visualization](assets/img/Projects/Cytoscape%20OralInt%20Network%20visualization.png)
-
-![Cerebral View](assets/img/Projects/Cerebral%20View.png)
-
-#### CoVTec in Saliva - Diagnosis of COVID 19 in saliva 🥼👨🏽‍💻
-
-The CoVTec project focuses on developing protocols for processing saliva, detecting SARS-CoV-2, and assessing the host immune response using saliva samples. It has established an R&DT platform to support healthcare institutions in the Viseu region of Portugal, enhancing diagnostic strategies for current and future pandemics. The project also created a platform for real-time data collection and randomization, enabling streamlined operations and controlled data access for medical staff and laboratory personnel based on pre-defined roles.
-
-- Output: [Esteves E, Mendes AK, Barros M, et al. Population wide testing pooling strategy for SARS-CoV-2 detection using saliva. PLoS One. 2022;17(1):e0263033. Published 2022 Jan 28. doi:10.1371/journal.pone.0263033](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8797214/)
-
-Technologies | Python in software development and in data analysis.
-Roles | Research Scientist, Bioinformatician
-Status | Complete July 2020
-
-[Institution Project page](https://ciencia.ucp.pt/en/projects/covtec-em-saliva-diagn%C3%B3stico-da-covid-19-em-saliva)
-
-[How Odoo helped creating a saliva tests platform in record time](https://www.erpgap.com/blog/odoogap-blog-1/covid-saliva-test-platform/)
-
-![Home page](assets/img/Projects/oehmp.png)
-
-#### SalivaPRINT Toolkit – Protein profile evaluation and phenotype stratification 🥼👨🏽‍💻
-
-SalivaPRINT Toolkit enables the analysis of protein profile patterns by the identification of molecular weight ranges altered in a particular condition and therefore potentially involved in the underlying dysregulated mechanisms. SalivaPRINT Toolkit is a CLI for electrophoretic protein profile evaluation.
-
-Technologies | Python in software development and in data analysis.
-Roles | Research Scientist, Bioinformatician
-Status | Complete January 2017
-
-![Graphical representation of the molecular weight classification of individuals](assets/img/Projects/Graphical%20representation%20of%20the%20molecular%20weight%20influence.jpg)
-
-[GitHub Repository](https://github.com/salivatec/SalivaPRINT)
-
----
-
-### **Publications**
-
-- [Esteves E, Mendes VM, Manadas B, et al. COVID-19 Salivary Protein Profile: Unravelling Molecular Aspects of SARS-CoV-2 Infection. J Clin Med. 2022;11(19):5571. Published 2022 Sep 22. doi:10.3390/jcm11195571](https://pubmed.ncbi.nlm.nih.gov/36233441/)
-
-- [Esteves E, Mendes AK, Barros M, et al. Population wide testing pooling strategy for SARS-CoV-2 detection using saliva. PLoS One. 2022;17(1):e0263033. Published 2022 Jan 28. doi:10.1371/journal.pone.0263033](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8797214/)
-
-- [Martins JE, D’Alimonte D, Simões J, Sousa S, Esteves E, Rosa N, Correia MJ, Simões M, Barros M. MODeLING.Vis: A Graphical User Interface Toolbox Developed for Machine Learning and Pattern Recognition of Biomolecular Data. Symmetry. 2023; 15(1):42. https://doi.org/10.3390/sym15010042](https://www.mdpi.com/2073-8994/15/1/42)
-
-- [Cruz I, Esteves E, Fernandes M, et al. SalivaPRINT Toolkit - Protein profile evaluation and phenotype stratification. J Proteomics. 2018;171:81-86. doi:10.1016/j.jprot.2017.08.011](https://pubmed.ncbi.nlm.nih.gov/28843534/)
-
-- [Esteves E, Rosa N, Correia MJ, Arrais JP, Barros M. New Targets for Zika Virus Determined by Human-Viral Interactomic: A Bioinformatics Approach. Biomed Res Int. 2017;2017:1734151. doi:10.1155/2017/1734151](https://pubmed.ncbi.nlm.nih.gov/29379794/)
-
----
-
 ### **EXPERIENCE**
 
 **Bioinformatician / Data Scientist** - Prana-Tech, Ltd\
@@ -208,3 +120,98 @@ Status | Complete January 2017
 - **Focus**: Standardizing clinical research training in Europe.
 - **Skills**: Pharmaceutical medicine, clinical research infrastructure.
 - **Certificate**: [CLIC Certificate](https://www.nms.unl.pt/en-us/education/programs/advanced-training/programa-clic-nivel-1-en-us)
+
+---
+
+### **Projects**
+
+#### Disease risk prediction in the tip of the finger 👨🏽‍💻🥼
+
+Alongside [Prana-Tech](https://prana-tech.co.uk/about_us) we aim to develop and apply Machine-Learning methods to multiple disease cnditions and merge into a user-centric health app.
+
+Technologies | Data analysis, Biostatistics, Machine-Learning.
+Roles | Bioinformatician
+Status | Ongoing since September 2023
+
+#### Oral e-Health Monitoring Platform - Co Founder 🦷🩺
+
+Project funded by CENTRO2020 and the European Regional Development Fund (ERDF), this platform will allow patients to access their oral health history, including diagnoses and treatments carried out, in a clear and objective way. This record can be shared with the new dentist, contributing to correct clinical decision making.
+
+Technologies | Django (backend) and Vue (frontend).
+Role | Project Manager
+Status | Complete July 2023
+
+[Project Home page](https://teethwallet.com/) | [Project on the media](https://fmd.viseu.ucp.pt/pt-pt/noticias/plataforma-oehmp-para-diagnostico-diferenciado-e-tratamentos-inovadores-9346)
+
+#### Oral Microbiome profile in Clear Aligner Patients During Treatment 👨🏽‍💻🦷
+
+The analysis of NGS microbial hypervariable regions of 16S rDNA focused on evaluating bacterial species diversity within samples using alpha diversity metrics like Shannon, Simpson, and Chao1. These metrics assess species richness and evenness (Shannon and Simpson) or species richness alone (Chao1). The study compared diversity in different sample types (saliva and biofilm) and between initial (T0) and final (T2 or T3) treatment time points to observe changes in microbial communities over time.
+
+- Output: PhD thesis presented by Dr. Pedro C. Lopes', titled "Oral Microbiota in Caries Prevention, Diagnosis and Management - Challenges and Opportunities"
+
+Technologies | Genomic Data analysis (NGS), Biostatistics
+Roles | Bioinformatician
+Status | Complete March 2024
+
+#### COVID-19 Salivary Protein Profile 🥼👨🏽‍💻
+
+This study combined proteomics and in silico interactomics to generate a salivary protein profile for COVID-19. Techniques such as partial least squares discriminant analysis and enrichment analysis with FunRich were used to narrow down the differential proteome. OralInt was used to investigate protein-protein interactions between the host and SARS-CoV-2. The analysis identified five dysregulated biological processes in COVID-19: apoptosis, energy pathways, immune response, protein metabolism and transport. Ten proteins not previously associated with SARS-CoV-2 were discovered, revealing new aspects of the virus' effects. The study also showed that SARS-CoV-2 affects the host's immune response, energy metabolism and apoptosis mechanisms.
+
+- Output: [Esteves E, Mendes VM, Manadas B, et al. COVID-19 Salivary Protein Profile: Unravelling Molecular Aspects of SARS-CoV-2 Infection. J Clin Med. 2022;11(19):5571. Published 2022 Sep 22. doi:10.3390/jcm11195571](https://pubmed.ncbi.nlm.nih.gov/36233441/)
+
+Technologies | Proteomic Data analysis, Biostatistics, Machine-Learning, Network & Pathway Analysis, Interactomics
+Roles | Research Scientist, Bioinformatician
+Status | Complete September 2022
+
+![Cytoscape OralInt Network visualization](assets/img/Projects/Cytoscape%20OralInt%20Network%20visualization.png)
+
+![Cerebral View](assets/img/Projects/Cerebral%20View.png)
+
+#### CoVTec in Saliva - Diagnosis of COVID 19 in saliva 🥼👨🏽‍💻
+
+The CoVTec project focuses on developing protocols for processing saliva, detecting SARS-CoV-2, and assessing the host immune response using saliva samples. It has established an R&DT platform to support healthcare institutions in the Viseu region of Portugal, enhancing diagnostic strategies for current and future pandemics. The project also created a platform for real-time data collection and randomization, enabling streamlined operations and controlled data access for medical staff and laboratory personnel based on pre-defined roles.
+
+- Output: [Esteves E, Mendes AK, Barros M, et al. Population wide testing pooling strategy for SARS-CoV-2 detection using saliva. PLoS One. 2022;17(1):e0263033. Published 2022 Jan 28. doi:10.1371/journal.pone.0263033](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8797214/)
+
+Technologies | Python in software development and in data analysis.
+Roles | Research Scientist, Bioinformatician
+Status | Complete July 2020
+
+[Institution Project page](https://ciencia.ucp.pt/en/projects/covtec-em-saliva-diagn%C3%B3stico-da-covid-19-em-saliva)
+
+[How Odoo helped creating a saliva tests platform in record time](https://www.erpgap.com/blog/odoogap-blog-1/covid-saliva-test-platform/)
+
+![Home page](assets/img/Projects/oehmp.png)
+
+#### SalivaPRINT Toolkit – Protein profile evaluation and phenotype stratification 🥼👨🏽‍💻
+
+SalivaPRINT Toolkit enables the analysis of protein profile patterns by the identification of molecular weight ranges altered in a particular condition and therefore potentially involved in the underlying dysregulated mechanisms. SalivaPRINT Toolkit is a CLI for electrophoretic protein profile evaluation.
+
+Technologies | Python in software development and in data analysis.
+Roles | Research Scientist, Bioinformatician
+Status | Complete January 2017
+
+![Graphical representation of the molecular weight classification of individuals](assets/img/Projects/Graphical%20representation%20of%20the%20molecular%20weight%20influence.jpg)
+
+[GitHub Repository](https://github.com/salivatec/SalivaPRINT)
+
+---
+
+### **Publications**
+
+- [Esteves E, Mendes VM, Manadas B, et al. COVID-19 Salivary Protein Profile: Unravelling Molecular Aspects of SARS-CoV-2 Infection. J Clin Med. 2022;11(19):5571. Published 2022 Sep 22. doi:10.3390/jcm11195571](https://pubmed.ncbi.nlm.nih.gov/36233441/)
+
+- [Esteves E, Mendes AK, Barros M, et al. Population wide testing pooling strategy for SARS-CoV-2 detection using saliva. PLoS One. 2022;17(1):e0263033. Published 2022 Jan 28. doi:10.1371/journal.pone.0263033](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8797214/)
+
+- [Martins JE, D’Alimonte D, Simões J, Sousa S, Esteves E, Rosa N, Correia MJ, Simões M, Barros M. MODeLING.Vis: A Graphical User Interface Toolbox Developed for Machine Learning and Pattern Recognition of Biomolecular Data. Symmetry. 2023; 15(1):42. https://doi.org/10.3390/sym15010042](https://www.mdpi.com/2073-8994/15/1/42)
+
+- [Cruz I, Esteves E, Fernandes M, et al. SalivaPRINT Toolkit - Protein profile evaluation and phenotype stratification. J Proteomics. 2018;171:81-86. doi:10.1016/j.jprot.2017.08.011](https://pubmed.ncbi.nlm.nih.gov/28843534/)
+
+- [Esteves E, Rosa N, Correia MJ, Arrais JP, Barros M. New Targets for Zika Virus Determined by Human-Viral Interactomic: A Bioinformatics Approach. Biomed Res Int. 2017;2017:1734151. doi:10.1155/2017/1734151](https://pubmed.ncbi.nlm.nih.gov/29379794/)
+
+---
+
+### **Memberships and event participation**
+
+**Member of Direction of Beira-Mar Squash team**      | *Aveiro (September 2024)*
+**Hackathon finalist**                                | *Aveiro (October 2024)*
