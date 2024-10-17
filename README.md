@@ -213,5 +213,7 @@ Status | Complete January 2017
 
 ### **Memberships and event participation**
 
-**Member of Direction of Beira-Mar Squash team**      | *Aveiro (September 2024)*
-**Hackathon finalist**                                | *Aveiro (October 2024)*
+<span style="color:cornflowerblue">
+  **Member of Direction of Beira-Mar Squash team**      | *Aveiro (September 2024)*
+  **Hackathon finalist**                                | *Aveiro (October 2024)*
+</span>
