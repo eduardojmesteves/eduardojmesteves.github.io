@@ -1,31 +1,21 @@
-# Bioinformatician / Data Scientist
+# Senior Science Officer
 
 [🕴🏼 LinkedIn](https://www.linkedin.com/in/eduardojmesteves/) | [📧 Email](mailto:eduardojmestves@gmail.com)
 <p>Aveiro, Portugal 🇵🇹 | Chelmsford, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿</p>
 ---
 
-### Technical Skills
-
-| **Programming**                 | Python, R, Julia, Bash/Shell scripting                               |
-| **Data Analysis**               | Genomic and proteomic data processing                                |
-| **Statistics & Machine Learning**| Biostatistics, scikit-learn, PyTorch, Bioconductor                  |
-| **Visualization**               | Matplotlib, ggplot2, Seaborn, Cytoscape                              |
-| **Database Management**         | SQL, PostgreSQL                                                      |
-| **Cloud & Containers**          | Google Cloud, Docker                                                 |
-| **Version Control**             | Git, GitHub, GitLab                                                  |
-| **Operating Systems**           | Linux, UNIX                                                          |
-| **Proteomics**                  | Protein quantitation, identification (MS), purification (HPLC/FPLC)  |
-| **Genomics**                    | DNA isolation, PCR, RT-PCR, sequence alignment, NGS analysis         |
-| **Interactomics**               | Host-pathogen interactions, Cytoscape, GO enrichment                 |
-| **Network & Pathway Analysis**  | Gene regulatory networks, KEGG, Reactome                             |
-
-
----
-
 ### **EXPERIENCE**
+**Senior Science Officer** - ELIXIR Hub\
+*January 2025 - Present*
+
+- Support the ELIXIR Compute and Data Platforms by delivering technical contributions to the ELIXIR Scientific Programme and externally funded projects.
+- Facilitate Open Science, data reproducibility, and software reusability across European life sciences by engaging with ELIXIR Nodes and stakeholders.
+- Conduct background research on emerging technologies, contribute to grant proposals, and provide scientific insights for ELIXIR’s research infrastructure.
+- Participate in designing, developing, and maintaining databases, metadata, and computational resources supporting FAIR (Findable, Accessible, Interoperable, Reusable) principles.
+- Contribute to shaping policies and best practices for life science data management, ensuring interoperability and alignment with European and global bioinformatics standards.
 
 **Bioinformatician / Data Scientist** - Prana-Tech, Ltd\
-*September 2023 - Present*
+*September 2023 - December 2024*
 
 - Developed machine learning models to predict health outcomes.
 - Analysed health questionnaires and blood data to generate actionable insights.
@@ -34,7 +24,7 @@
 - Designed and implemented visualisation dashboards to improve data interpretability.
 
 **Project Manager / Junior Software Developer** - PromptEquation, Lda\
-*September 2021 - Present*
+*September 2021 - December 2024*
 
 - Managed projects through requirements analysis, budget optimisation and accurate documentation of customer requirements.
 - Developed and adapted Python scripts and the Odoo framework.
@@ -56,6 +46,22 @@
 - Helped students develop critical thinking and research skills.
 - Led laboratory sessions that combined hands-on work with computer-based learning.
 - Established new partnerships between industry and academia to ensure students are ready for the world of work.
+
+---
+### Technical Skills
+
+| **Programming**                 | Python, R, Julia, Bash/Shell scripting                               |
+| **Data Analysis**               | Genomic and proteomic data processing                                |
+| **Statistics & Machine Learning**| Biostatistics, scikit-learn, PyTorch, Bioconductor                  |
+| **Visualization**               | Matplotlib, ggplot2, Seaborn, Cytoscape                              |
+| **Database Management**         | SQL, PostgreSQL                                                      |
+| **Cloud & Containers**          | Google Cloud, Docker                                                 |
+| **Version Control**             | Git, GitHub, GitLab                                                  |
+| **Operating Systems**           | Linux, UNIX                                                          |
+| **Proteomics**                  | Protein quantitation, identification (MS), purification (HPLC/FPLC)  |
+| **Genomics**                    | DNA isolation, PCR, RT-PCR, sequence alignment, NGS analysis         |
+| **Interactomics**               | Host-pathogen interactions, Cytoscape, GO enrichment                 |
+| **Network & Pathway Analysis**  | Gene regulatory networks, KEGG, Reactome                             |
 
 ---
 
