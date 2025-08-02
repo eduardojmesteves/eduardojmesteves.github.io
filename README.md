@@ -1,11 +1,11 @@
-# Senior Science Officer
+# Senior Science Officer | Research Infrastructure Specialist
 
 [🕴🏼 LinkedIn](https://www.linkedin.com/in/eduardojmesteves/) | [📧 Email](mailto:eduardojmestves@gmail.com)
-<p>Aveiro, Portugal 🇵🇹 | Chelmsford, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿</p>
+<p>📍 Chelmsford, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | Aveiro, Portugal 🇵🇹</p>
 ---
 
 ### **EXPERIENCE**
-**Senior Science Officer** - ELIXIR Hub\
+**Senior Science Officer** - ELIXIR Europe\
 *January 2025 - Present*
 
 - Support the ELIXIR Compute and Data Platforms by delivering technical contributions to the ELIXIR Scientific Programme and externally funded projects.
@@ -26,10 +26,11 @@
 **Project Manager / Junior Software Developer** - PromptEquation, Lda\
 *September 2021 - December 2024*
 
-- Managed projects through requirements analysis, budget optimisation and accurate documentation of customer requirements.
-- Developed and adapted Python scripts and the Odoo framework.
-- Performed advanced database queries in PostgreSQL for data management and analysis.
+- Managed 11 interdisciplinary projects through requirements analysis, budget optimisation and accurate documentation of customer requirements.
+- Developed in the Odoo framework and adapted Python scripts to fetch data from the server.
+- Developed and prepared different dashboards using open source tools (i.e. Apache Superset)
 - Used BI tools and dashboards to produce detailed reports for decision making.
+- Performed advanced database queries in PostgreSQL for data management and analysis.
 
 **Research Fellow** - Catholic University of Portugal\
 *September 2015 - August 2021*
@@ -43,9 +44,10 @@
 *September 2017 - August 2018*\
 *Spetember 2020 - August 2021*
 
-- Helped students develop critical thinking and research skills.
+- Supported two classes to develop critical thinking and research skills.
 - Led laboratory sessions that combined hands-on work with computer-based learning.
-- Established new partnerships between industry and academia to ensure students are ready for the world of work.
+- Results-oriented classes with the use of bioinformatics.
+- Established new partnerships between industry and academia to ensure students had a real world experience. 
 
 ---
 ### Technical Skills
@@ -139,7 +141,7 @@ Technologies | Data analysis, Biostatistics, Machine-Learning.
 Roles | Bioinformatician
 Status | Ongoing since September 2023
 
-#### Oral e-Health Monitoring Platform - Co Founder 🦷🩺
+#### Oral e-Health Monitoring Platform - Co-Founder 🦷🩺
 
 Project funded by CENTRO2020 and the European Regional Development Fund (ERDF), this platform will allow patients to access their oral health history, including diagnoses and treatments carried out, in a clear and objective way. This record can be shared with the new dentist, contributing to correct clinical decision making.
 
