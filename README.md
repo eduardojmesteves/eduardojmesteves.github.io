@@ -13,6 +13,7 @@
 ---
 
 ### **EXPERIENCE**
+
 **Senior Science Officer** - ELIXIR Europe\
 *January 2025 - Present*
 
@@ -42,7 +43,7 @@
 - Used BI tools and dashboards to produce detailed reports for decision making.
 - Performed advanced database queries in PostgreSQL for data management and analysis.
 
-**Research Fellow** - Catholic University of Portugal\
+**Research Associate** - Catholic University of Portugal\
 *September 2015 - August 2021*
 
 - Performed MS-based proteomic analysis to characterise protein responses to SARS-CoV-2.
@@ -50,14 +51,19 @@
 - Developed custom software to store, analyse and visualise clinical data from NGS and MS sources.
 - Implemented COVID-19 saliva-based diagnostic protocols integrating genomic and proteomic data.
 
-**Research Assistant Lecturer** - Catholic University of Portugal\
-*September 2017 - August 2018*\
+**Assistant Lecturer** - Catholic University of Portugal\
 *September 2020 - August 2021*
 
-- Supported two classes to develop critical thinking and research skills.
-- Led laboratory sessions that combined hands-on work with computer-based learning.
-- Results-oriented classes with the use of bioinformatics.
-- Established new partnerships between industry and academia to ensure students had a real world experience. 
+- Supported undergraduate classes to develop **critical thinking and research skills**.  
+- Led laboratory sessions that combined **hands-on experiments with computer-based bioinformatics learning**.  
+- Delivered **results-oriented classes** with practical applications in proteomics and molecular biology.  
+- Helped establish **industry–academia partnerships** to give students real-world project experience.  
+
+| **Course** | **Role** | **Institution** | **Start** | **End** |
+|---|---|---|---:|---:|
+| Biomolecular Laboratories II | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
+| Molecular Biology | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
+| Seminars Projects | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
 
 ---
 
@@ -72,25 +78,16 @@
 
 ---
 
-### Technical Skills
+### Skills
 
-| Area | Tools / Focus |
+| Area | Skills & Tools |
 |---|---|
-| **Programme & Governance** | Deliverables/reporting, stakeholder alignment, Open Science/FAIR/TRE |
-| **Bioinformatics** | Proteomics (MS), NGS; QC, stats; reproducible notebooks/pipelines |
-| **Data & Analytics** | Python, R, SQL (PostgreSQL); dashboards (Superset/Metabase) |
-| **Engineering** | Odoo (Python), CLI tools; Docker; GCP basics |
-| **Standards & Interop** | Metadata schemas, validators, mapping tables |
-
----
-
-### **Talks & Lectures**
-
-| **Course** | **Role** | **Institution** | **Start** | **End** |
-|---|---|---|---:|---:|
-| Biomolecular Laboratories II | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
-| Molecular Biology | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
-| Seminars Projects | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
+| **Programme & Project Management** | Multi-partner project coordination, deliverables/reporting, grant reporting, stakeholder alignment, Open Science/FAIR/TRE |
+| **Bioinformatics & Life Sciences** | Proteomics (MS), NGS data integration, multi-omics pipelines, biomarker discovery, reproducibility (Snakemake, Nextflow basics), PRIDE/ProteomeXchange |
+| **Data Science & Analytics** | Python (pandas, matplotlib, scikit-learn), R (tidyverse, ggplot2), SQL (PostgreSQL), Julia (introductory), statistics & QC, dashboards (Superset) |
+| **Software & Infrastructure** | Odoo (Python), Docker, Git/GitHub, GCP basics, workflow automation, data validation scripts, metadata schemas |
+| **Teaching & Communication** | University lecturing (lab & theory), mentoring BSc/MSc students, outreach & community building, cross-sector collaboration |
+| **Languages** | Portuguese (native), English (advanced – IELTS B2+) |
 
 ---
 
@@ -254,7 +251,7 @@
 
 ---
 
-### **Memberships and event participation**
+### **Leadership & Community Engagement**
 
 **Board Member (Direction) — 🏸 Beira-Mar Squash Club**  
 *2022 – Present*  

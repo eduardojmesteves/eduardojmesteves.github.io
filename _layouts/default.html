@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title | default: site.title }}</title>
+    {% include head.html %}
+  </head>
+  <body>
+    {% include body.html %}
+    {{ content }}
+  </body>
+</html>
