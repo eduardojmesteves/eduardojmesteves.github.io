@@ -1,4 +1,37 @@
-# Senior Science Officer | Research Infrastructure Specialist
+<!-- Links & Docs — Button Row -->
+<nav aria-label="Quick links" style="margin:.5rem 0;">
+  <span style="display:flex;flex-wrap:wrap;gap:.4rem;">
+    <a href="https://docs.google.com/your-cv-link" class="pill">CV</a>
+    <a href="https://orcid.org/0000-0000-0000-0000" class="pill">ORCID</a>
+    <a href="https://www.cienciavitae.pt/" class="pill">CiênciaVitae</a>
+    <a href="https://www.ucp.pt/" class="pill">Ciência UCP</a>
+    <a href="https://www.linkedin.com/in/eduardojmesteves/" class="pill">LinkedIn</a>
+    <a href="https://eduardojmesteves.github.io" class="pill">Portfolio</a>
+  </span>
+</nav>
+
+<style>
+  .pill{padding:.25rem .6rem;border-radius:999px;border:1px solid rgba(0,0,0,.15);
+        text-decoration:none;font-weight:600;font-size:.9rem;color:#111;background:#fff}
+  .pill:hover{background:#f6f6f6}
+  @media (prefers-color-scheme: dark){
+    .pill{color:#f2f2f2;border-color:rgba(255,255,255,.2);background:#111}
+    .pill:hover{background:#1a1a1a}
+  }
+</style>
+<!-- Links & Docs — Button Row -->
+
+# 🚀 Bioinformatician & Research Infrastructure Specialist
+*Bridging Life Sciences, Data Platforms, and Digital Health*
+
+[👉 Let’s connect — schedule a chat](https://cal.com/eduardojmesteves/meetme)
+
+<!-- Primary booking CTA near hero -->
+<p style="margin:1rem 0;">
+  <a href="https://cal.com/eduardojmesteves/meetme" class="pill" style="background:#0b5fff;color:#fff;border-color:#0b5fff;">
+    📆 Book a strategy session →
+  </a>
+</p>
 
 [🕴🏼 LinkedIn](https://www.linkedin.com/in/eduardojmesteves/) | [📧 Email](mailto:eduardojmestves@gmail.com)
 <p>📍 Chelmsford, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | Aveiro, Portugal 🇵🇹</p>
@@ -9,10 +42,13 @@
 *January 2025 - Present*
 
 - Support the ELIXIR Compute and Data Platforms by delivering technical contributions to the ELIXIR Scientific Programme and externally funded projects.
+- Coordinate multi-partner deliverables, risks and reporting across EOSC projects (ENTRUST, OSCARS, FIDELIS, STEERS).  
+- Support development of **trusted research infrastructures** for sensitive health data; align ethics, security and interoperability.  
+- Shape best practices for **FAIR data**, software sustainability, and open-science adoption across the ELIXIR network.  
+- Contribute to grant proposals, impact frameworks and cross-programme integration.
 - Facilitate Open Science, data reproducibility, and software reusability across European life sciences by engaging with ELIXIR Nodes and stakeholders.
 - Conduct background research on emerging technologies, contribute to grant proposals, and provide scientific insights for ELIXIR’s research infrastructure.
-- Participate in designing, developing, and maintaining databases, metadata, and computational resources supporting FAIR (Findable, Accessible, Interoperable, Reusable) principles.
-- Contribute to shaping policies and best practices for life science data management, ensuring interoperability and alignment with European and global bioinformatics standards.
+
 
 **Bioinformatician / Data Scientist** - Prana-Tech, Ltd\
 *September 2023 - December 2024*
@@ -42,7 +78,7 @@
 
 **Research Assistant Lecturer** - Catholic University of Portugal\
 *September 2017 - August 2018*\
-*Spetember 2020 - August 2021*
+*September 2020 - August 2021*
 
 - Supported two classes to develop critical thinking and research skills.
 - Led laboratory sessions that combined hands-on work with computer-based learning.
@@ -135,7 +171,7 @@
 
 #### Disease risk prediction in the tip of the finger 👨🏽‍💻🥼
 
-Alongside [Prana-Tech](https://prana-tech.co.uk/about_us) we aim to develop and apply Machine-Learning methods to multiple disease cnditions and merge into a user-centric health app.
+Alongside [Prana-Tech](https://prana-tech.co.uk/about_us) we aim to develop and apply Machine-Learning methods to multiple disease conditions and merge into a user-centric health app.
 
 Technologies | Data analysis, Biostatistics, Machine-Learning.
 Roles | Bioinformatician
