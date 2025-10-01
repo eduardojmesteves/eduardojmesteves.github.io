@@ -6,6 +6,9 @@
 # 🚀 Research Programme & Bioinformatics specialist
 *Coordinate complex research programmes, and apply bioinformatics expertise to projects—bridging management and science.*
 
+<div style="clear:both;"></div>
+{% include quick-links.html %}
+
 [👉 Let’s connect — schedule a chat](https://cal.com/eduardojmesteves/meetme)
 
 <p>📍 UK/EU – open to remote</p>
