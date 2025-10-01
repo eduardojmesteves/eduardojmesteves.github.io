@@ -1,3 +1,8 @@
+<header class="site-header">
+  <!-- your title/nav -->
+  {% include quick-links.html %}
+</header>
+
 <header>
   <!-- your site title/nav -->
   {% include quick-links.html %}

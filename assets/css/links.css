@@ -1,4 +1,4 @@
-/* assets/css/links.css */
+/* assets/css/links.css
 .pill{
   padding:.25rem .6rem;border-radius:999px;border:1px solid rgba(0,0,0,.15);
   text-decoration:none;font-weight:600;font-size:.9rem;color:#111;background:#fff
@@ -7,4 +7,26 @@
 @media (prefers-color-scheme: dark){
   .pill{color:#f2f2f2;border-color:rgba(255,255,255,.2);background:#111}
   .pill:hover{background:#1a1a1a}
+}
+ */
+
+/* Ensure header doesn't overlay content */
+.site-header { position: relative; z-index: 2; }
+.page-content, .site-content, .wrapper, .container {
+  margin-top: 1.25rem;  /* bump if needed: 2–3rem */
+}
+
+/* Quick-links block (scoped to our include) */
+#quick-links { margin:.75rem 0 0; position: relative; clear: both; }
+#quick-links .pill-row{ display:flex; flex-wrap:wrap; gap:.4rem; align-items:center; }
+
+.pill{
+  display:inline-block; padding:.25rem .6rem; border-radius:999px;
+  border:1px solid rgba(0,0,0,.15); text-decoration:none; font-weight:600;
+  font-size:.9rem; color:#111; background:#fff; line-height:1.2; white-space:nowrap;
+}
+.pill:hover{ background:#f6f6f6; }
+@media (prefers-color-scheme: dark){
+  .pill{ color:#f2f2f2; border-color:rgba(255,255,255,.2); background:#111; }
+  .pill:hover{ background:#1a1a1a; }
 }
