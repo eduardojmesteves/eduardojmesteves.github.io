@@ -1,12 +1,23 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title | default: site.title }}</title>
-    {% include head.html %}
+
+    <!-- jekyll-theme-minimal stylesheet -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.github.build_revision }}">
+    <!-- your custom styles (already in your repo) -->
+    <link rel="stylesheet" href="{{ '/assets/css/links.css' | relative_url }}">
+
+    {% include gtm-head.html %}
   </head>
   <body>
-    {% include body.html %}
-    {{ content }}
+    {% include gtm-body.html %}
+
+    <!-- Your page content -->
+    <div class="container">
+      {{ content }}
+    </div>
   </body>
 </html>
