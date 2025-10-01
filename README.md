@@ -59,8 +59,10 @@
 ---
 
 <!-- Primary booking CTA near hero -->
-<p style="margin:1rem 0;">
-  <a href="https://cal.com/eduardojmesteves/meetme" class="pill" style="background:#0b5fff;color:#fff;border-color:#0b5fff;">
+<p style="margin:1rem 0; clear: both;">
+  <a href="https://your-booking-link" class="pill"
+     style="background:#0b5fff;color:#fff;border-color:#0b5fff;"
+     target="_blank" rel="noopener noreferrer">
     📆 Book a strategy session →
   </a>
 </p>
