@@ -33,7 +33,7 @@ h1, h2, h3 {
 /* ====== Dark Mode ====== */
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #121212;
+    background-color: #282727;
     color: #e5e5e5;
   }
 
@@ -41,8 +41,12 @@ h1, h2, h3 {
     color: #66b0ff; /* brighter blue for contrast */
   }
 
-  h1, h2, h3 {
+  h1, h2, h3, h4, h5, h6 {
     color: #f0f0f0; /* softer than pure white */
+  }
+
+  strong, b {
+    color: #f0f0f0; /* make bold text white */
   }
 
   .pill {
