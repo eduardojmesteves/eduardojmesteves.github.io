@@ -1,40 +1,14 @@
-<!-- Links & Docs — Button Row -->
-<nav aria-label="Quick links" style="margin:.5rem 0;">
-  <span style="display:flex;flex-wrap:wrap;gap:.4rem;">
-    <a href="https://docs.google.com/your-cv-link" class="pill">CV</a>
-    <a href="https://orcid.org/0000-0000-0000-0000" class="pill">ORCID</a>
-    <a href="https://www.cienciavitae.pt/" class="pill">CiênciaVitae</a>
-    <a href="https://www.ucp.pt/" class="pill">Ciência UCP</a>
-    <a href="https://www.linkedin.com/in/eduardojmesteves/" class="pill">LinkedIn</a>
-    <a href="https://eduardojmesteves.github.io" class="pill">Portfolio</a>
-  </span>
-</nav>
+<header>
+  <!-- your site title/nav -->
+  {% include quick-links.html %}
+</header>
 
-<style>
-  .pill{padding:.25rem .6rem;border-radius:999px;border:1px solid rgba(0,0,0,.15);
-        text-decoration:none;font-weight:600;font-size:.9rem;color:#111;background:#fff}
-  .pill:hover{background:#f6f6f6}
-  @media (prefers-color-scheme: dark){
-    .pill{color:#f2f2f2;border-color:rgba(255,255,255,.2);background:#111}
-    .pill:hover{background:#1a1a1a}
-  }
-</style>
-<!-- Links & Docs — Button Row -->
-
-# 🚀 Bioinformatician & Research Infrastructure Specialist
-*Bridging Life Sciences, Data Platforms, and Digital Health*
+# 🚀 Research Programme & Bioinformatics specialist
+*Coordinate complex research programmes, and apply bioinformatics expertise to projects—bridging management and science.*
 
 [👉 Let’s connect — schedule a chat](https://cal.com/eduardojmesteves/meetme)
 
-<!-- Primary booking CTA near hero -->
-<p style="margin:1rem 0;">
-  <a href="https://cal.com/eduardojmesteves/meetme" class="pill" style="background:#0b5fff;color:#fff;border-color:#0b5fff;">
-    📆 Book a strategy session →
-  </a>
-</p>
-
-[🕴🏼 LinkedIn](https://www.linkedin.com/in/eduardojmesteves/) | [📧 Email](mailto:eduardojmestves@gmail.com)
-<p>📍 Chelmsford, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | Aveiro, Portugal 🇵🇹</p>
+<p>📍 UK/EU – open to remote</p>
 ---
 
 ### **EXPERIENCE**
@@ -48,7 +22,6 @@
 - Contribute to grant proposals, impact frameworks and cross-programme integration.
 - Facilitate Open Science, data reproducibility, and software reusability across European life sciences by engaging with ELIXIR Nodes and stakeholders.
 - Conduct background research on emerging technologies, contribute to grant proposals, and provide scientific insights for ELIXIR’s research infrastructure.
-
 
 **Bioinformatician / Data Scientist** - Prana-Tech, Ltd\
 *September 2023 - December 2024*
@@ -86,6 +59,16 @@
 - Established new partnerships between industry and academia to ensure students had a real world experience. 
 
 ---
+
+<!-- Primary booking CTA near hero -->
+<p style="margin:1rem 0;">
+  <a href="https://cal.com/eduardojmesteves/meetme" class="pill" style="background:#0b5fff;color:#fff;border-color:#0b5fff;">
+    📆 Book a strategy session →
+  </a>
+</p>
+
+---
+
 ### Technical Skills
 
 | **Programming**                 | Python, R, Julia, Bash/Shell scripting                               |

@@ -1,0 +1,10 @@
+/* assets/css/links.css */
+.pill{
+  padding:.25rem .6rem;border-radius:999px;border:1px solid rgba(0,0,0,.15);
+  text-decoration:none;font-weight:600;font-size:.9rem;color:#111;background:#fff
+}
+.pill:hover{background:#f6f6f6}
+@media (prefers-color-scheme: dark){
+  .pill{color:#f2f2f2;border-color:rgba(255,255,255,.2);background:#111}
+  .pill:hover{background:#1a1a1a}
+}
