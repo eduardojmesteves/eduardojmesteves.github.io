@@ -1,15 +1,27 @@
-/* ====== Pills (Light + Dark mode) ====== */
+/* ====== Light Mode (default) ====== */
+body {
+  background-color: #ffffff;
+  color: #111111;
+}
+
+a {
+  color: #0066cc;
+}
+
+h1, h2, h3 {
+  color: #111111;
+}
+
 .pill {
-  display:inline-block;
+  display: inline-block;
   padding: .3rem .8rem;
   border-radius: 999px;
   border: 1px solid rgba(0,0,0,.15);
   text-decoration: none;
   font-weight: 600;
   font-size: .9rem;
-  color: #111;
-  background: #fff;
-  line-height: 1.2;
+  color: #111111;
+  background: #ffffff;
   transition: background 0.2s ease, color 0.2s ease, transform 0.1s ease;
 }
 
@@ -26,20 +38,20 @@
   }
 
   a {
-    color: #4da6ff;
-  }
-
-  .pill {
-    background: #1f1f1f;
-    border-color: rgba(255,255,255,.2);
-    color: #f2f2f2;
-  }
-
-  .pill:hover {
-    background: #333333;
+    color: #66b0ff; /* brighter blue for contrast */
   }
 
   h1, h2, h3 {
-    color: #ffffff;
+    color: #f0f0f0; /* softer than pure white */
+  }
+
+  .pill {
+    background: #1e1e1e; /* distinguish from body bg */
+    border-color: rgba(255,255,255,.25);
+    color: #e5e5e5;
+  }
+
+  .pill:hover {
+    background: #2a2a2a; /* slightly lighter hover */
   }
 }
