@@ -1,13 +1,3 @@
-<header class="site-header">
-  <!-- your title/nav -->
-  {% include quick-links.html %}
-</header>
-
-<header>
-  <!-- your site title/nav -->
-  {% include quick-links.html %}
-</header>
-
 # 🚀 Research Programme & Bioinformatics specialist
 *Coordinate complex research programmes, and apply bioinformatics expertise to projects—bridging management and science.*
 
