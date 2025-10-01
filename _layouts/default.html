@@ -5,9 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title | default: site.title }}</title>
 
-    <!-- jekyll-theme-minimal stylesheet -->
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.github.build_revision }}">
-    <!-- your custom styles (already in your repo) -->
+    <!-- Minimal theme stylesheet (served by the theme gem) -->
+    <link rel="stylesheet"
+          href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.github.build_revision }}">
+
+    <!-- Your extra CSS (you already have assets/css/links.css) -->
     <link rel="stylesheet" href="{{ '/assets/css/links.css' | relative_url }}">
 
     {% include gtm-head.html %}
@@ -15,7 +17,6 @@
   <body>
     {% include gtm-body.html %}
 
-    <!-- Your page content -->
     <div class="container">
       {{ content }}
     </div>
