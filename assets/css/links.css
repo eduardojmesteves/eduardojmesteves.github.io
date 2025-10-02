@@ -1,7 +1,7 @@
 /* ====== Wider Page (extended) ====== */
 .wrapper {
-    max-width: 900px; /* bump this up to taste */
-    margin: 0 auto;
+  max-width: 1200px !important;
+  margin: 0 auto;
 }
 
 /* ====== Light Mode (default) ====== */
