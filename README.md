@@ -70,7 +70,7 @@
 | Molecular Biology | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
 | Seminars Projects | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
 
----
+--
 
 <!-- Primary booking CTA near hero -->
 <p style="margin:1rem 0; clear: both;">
@@ -85,7 +85,7 @@
 
 ### Skills
 
-| Area | Skills & Tools |
+| `Area` | `Skills & Tools` |
 |---|---|
 | **Programme & Project Management** | Multi-partner project coordination, deliverables/reporting, grant reporting, stakeholder alignment, Open Science/FAIR/TRE |
 | **Bioinformatics & Life Sciences** | Proteomics (MS), NGS data integration, multi-omics pipelines, biomarker discovery, reproducibility (Snakemake, Nextflow basics), PRIDE/ProteomeXchange |
@@ -94,7 +94,7 @@
 | **Teaching & Communication** | University lecturing (lab & theory), mentoring BSc/MSc students, outreach & community building, cross-sector collaboration |
 | **Languages** | Portuguese (native), English (advanced – IELTS B2+) |
 
----
+--
 
 <!-- Primary booking CTA near hero -->
 <p style="margin:1rem 0; clear: both;">
@@ -195,7 +195,7 @@
 **Outcome.** Delivered a functional prototype during the Hackathon that demonstrated **low-cost IoT feasibility** for industrial process validation. The design was applicable across **gravity-based assembly lines, manual progression lines, and fixed workstations**.  
 **Event.** [Aveiro Tech City Hackathon 2024](https://www.fct.unl.pt/noticias/agenda/2024/09/aveiro-tech-city-hackathon-2024) · [Bosch Portugal Challenge](https://www.it.pt/Events/Event/5652)  
 
----
+--
 
 <!-- Primary booking CTA near hero -->
 <p style="margin:1rem 0; clear: both;">
@@ -262,7 +262,7 @@
 - **Skills**: Pharmaceutical medicine, clinical research infrastructure.
 - **Certificate**: [CLIC Certificate](https://www.nms.unl.pt/en-us/education/programs/advanced-training/programa-clic-nivel-1-en-us)
 
----
+--
 
 <!-- Primary booking CTA near hero -->
 <p style="margin:1rem 0; clear: both;">
@@ -287,7 +287,7 @@
 
 - [Esteves E, Rosa N, Correia MJ, Arrais JP, Barros M. New Targets for Zika Virus Determined by Human-Viral Interactomic: A Bioinformatics Approach. Biomed Res Int. 2017;2017:1734151. doi:10.1155/2017/1734151](https://pubmed.ncbi.nlm.nih.gov/29379794/)
 
----
+--
 
 ### **Leadership & Community Engagement**
 
