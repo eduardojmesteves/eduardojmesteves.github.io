@@ -89,7 +89,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 | **Data Science & Analytics** | Python (pandas, matplotlib, scikit-learn), R (tidyverse, ggplot2), SQL (PostgreSQL), Julia (introductory), statistics & QC, dashboards (Superset) |
 | **Software & Infrastructure** | Odoo (Python), Docker, Git/GitHub, GCP basics, workflow automation, data validation scripts, metadata schemas |
 | **Teaching & Communication** | University lecturing (lab & theory), mentoring BSc/MSc students, outreach & community building, cross-sector collaboration |
-| **Languages** | Portuguese (native), English (advanced – IELTS B2+) |
+| **Languages** | Portuguese (native), English (IELTS B2+) |
 
 ### 🔬 Research Projects
 
