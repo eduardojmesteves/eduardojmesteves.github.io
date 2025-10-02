@@ -71,10 +71,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>
 <!-- Primary booking CTA near hero -->
 <p style="margin:1rem 0; clear: both;">
-  <a href="https://your-booking-link" class="pill"
+  <a href="https://cal.com/eduardojmesteves/meetme" class="pill"
      style="background:#0b5fff;color:#fff;border-color:#0b5fff;"
      target="_blank" rel="noopener noreferrer">
-    📆 Book a strategy session →
+    📆 👉 Let’s connect — schedule a chat →
   </a>
 </p>
 </p>
@@ -182,10 +182,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <!-- Primary booking CTA near hero -->
 <p style="margin:1rem 0; clear: both;">
-  <a href="https://your-booking-link" class="pill"
+  <a href="https://cal.com/eduardojmesteves/meetme" class="pill"
      style="background:#0b5fff;color:#fff;border-color:#0b5fff;"
      target="_blank" rel="noopener noreferrer">
-    📆 Book a strategy session →
+    📆 👉 Let’s connect — schedule a chat →
   </a>
 </p>
 
@@ -246,10 +246,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <!-- Primary booking CTA near hero -->
 <p style="margin:1rem 0; clear: both;">
-  <a href="https://your-booking-link" class="pill"
+  <a href="https://cal.com/eduardojmesteves/meetme" class="pill"
      style="background:#0b5fff;color:#fff;border-color:#0b5fff;"
      target="_blank" rel="noopener noreferrer">
-    📆 Book a strategy session →
+    📆 👉 Let’s connect — schedule a chat →
   </a>
 </p>
 
