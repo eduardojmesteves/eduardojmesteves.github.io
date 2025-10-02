@@ -68,7 +68,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 | Molecular Biology | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
 | Seminars Projects | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
 
-
+<p>
 <!-- Primary booking CTA near hero -->
 <p style="margin:1rem 0; clear: both;">
   <a href="https://your-booking-link" class="pill"
@@ -77,12 +77,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     📆 Book a strategy session →
   </a>
 </p>
-
+</p>
 ---
 
 ### Skills
 
-| `Area` | `Skills & Tools` |
+| **Area** | **Skills & Tools** |
 |---|---|
 | **Programme & Project Management** | Multi-partner project coordination, deliverables/reporting, grant reporting, stakeholder alignment, Open Science/FAIR/TRE |
 | **Bioinformatics & Life Sciences** | Proteomics (MS), NGS data integration, multi-omics pipelines, biomarker discovery, reproducibility (Snakemake, Nextflow basics), PRIDE/ProteomeXchange |
@@ -205,7 +205,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 ### **Education**
 
-| Degree | Institution | Dates |
+| **Degree** | **Institution** | **Dates** |
 |---|---|---|
 | **PhD, Biomedicine** | Universidade da Beira Interior | 2018 – 2023 |
 | **MSc, Cell & Molecular Biology** | Universidade de Aveiro | 2012 – 2014 |
