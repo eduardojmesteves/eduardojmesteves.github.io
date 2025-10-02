@@ -68,17 +68,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 | Molecular Biology | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
 | Seminars Projects | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
 
-<br>
-    <!-- Primary booking CTA near hero -->
-    <p style="margin:1rem 0; clear: both;">
-    <a href="https://your-booking-link" class="pill"
-        style="background:#0b5fff;color:#fff;border-color:#0b5fff;"
-        target="_blank" rel="noopener noreferrer">
-        📆 Book a strategy session →
-    </a>
-    </p>
-</br>
-
+<p>
+<!-- Primary booking CTA near hero -->
+<p style="margin:1rem 0; clear: both;">
+  <a href="https://your-booking-link" class="pill"
+     style="background:#0b5fff;color:#fff;border-color:#0b5fff;"
+     target="_blank" rel="noopener noreferrer">
+    📆 Book a strategy session →
+  </a>
+</p>
+</p>
+---
 
 ### Skills
 
@@ -90,18 +90,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 | **Software & Infrastructure** | Odoo (Python), Docker, Git/GitHub, GCP basics, workflow automation, data validation scripts, metadata schemas |
 | **Teaching & Communication** | University lecturing (lab & theory), mentoring BSc/MSc students, outreach & community building, cross-sector collaboration |
 | **Languages** | Portuguese (native), English (advanced – IELTS B2+) |
-
-
-<!-- Primary booking CTA near hero -->
-<p style="margin:1rem 0; clear: both;">
-  <a href="https://your-booking-link" class="pill"
-     style="background:#0b5fff;color:#fff;border-color:#0b5fff;"
-     target="_blank" rel="noopener noreferrer">
-    📆 Book a strategy session →
-  </a>
-</p>
-
----
 
 ### **Projects**
 
@@ -201,7 +189,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </a>
 </p>
 
----
 
 ### **Education**
 
