@@ -68,7 +68,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 | Molecular Biology | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
 | Seminars Projects | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
 
-<p>
+<br>
     <!-- Primary booking CTA near hero -->
     <p style="margin:1rem 0; clear: both;">
     <a href="https://your-booking-link" class="pill"
@@ -77,7 +77,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         📆 Book a strategy session →
     </a>
     </p>
-</p>
+</br>
 
 
 ### Skills
