@@ -91,11 +91,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 | **Teaching & Communication** | University lecturing (lab & theory), mentoring BSc/MSc students, outreach & community building, cross-sector collaboration |
 | **Languages** | Portuguese (native), English (advanced – IELTS B2+) |
 
-### **Projects**
+### 🔬 Research Projects
 
-#### 🔬 Research Projects
-
-##### 🧬 COVID-19 Salivary Protein Profile
+#### 🧬 COVID-19 Salivary Protein Profile
 
 **Problem.** Characterise host response and identify dysregulated processes in COVID-19 using saliva proteomics.  
 **Approach.** MS proteomics + PLS-DA, enrichment (FunRich), interactomics (OralInt).  
@@ -108,7 +106,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 ---
 
-##### 🧬 CoVTec in Saliva (Pooling Strategy)
+#### 🧬 CoVTec in Saliva (Pooling Strategy)
 
 **Problem.** Scale saliva testing efficiently in a regional network.  
 **Approach.** Protocol development + platform for real-time data capture and role-based access; analytics in Python.  
@@ -117,7 +115,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 ---
 
-##### ⚙️ SalivaPRINT Toolkit
+#### ⚙️ SalivaPRINT Toolkit
 
 **Problem.** Need for a standardised resource to profile salivary proteomes across conditions.  
 **Approach.** Built a reference dataset (PRIDE submissions) + software toolkit for feature extraction and biomarker discovery.  
@@ -130,7 +128,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 ---
 
-##### 🦷 Oral e-Health Monitoring Platform — *Co-Founder*
+#### 🦷 Oral e-Health Monitoring Platform — *Co-Founder*
 
 **Problem.** Lack of integrated tools for monitoring oral health data longitudinally, combining patient records, omics, and clinical observations.  
 **Approach.** Co-founded the development of a platform to capture, store, and visualise oral health data in a reproducible and accessible way, aligning with FAIR principles.  
@@ -140,7 +138,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 ---
 
-##### 🧬🦷 Oral Microbiome Profile in Clear Aligner Patients During Treatment
+#### 🧬🦷 Oral Microbiome Profile in Clear Aligner Patients During Treatment
 
 **Problem.** Limited knowledge of how orthodontic clear aligner therapy influences the oral microbiome composition.  
 **Approach.** Collected saliva samples from patients undergoing aligner treatment; performed shotgun proteomics and 16S rRNA profiling with clinical metadata integration.  
@@ -149,9 +147,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 ---
 
-#### 🏭 Industry Projects
+### 🏭 Industry Projects
 
-##### 📊 Prana-Tech (Health Data Modelling & Dashboards)
+#### 📊 Prana-Tech (Health Data Modelling & Dashboards)
 
 **Problem.** Clinicians lacked tools to evaluate patient data quality and compliance in real time.  
 **Approach.** Designed dashboards (Superset/Metabase), integrated modelling feasibility studies on health questionnaires and blood data.  
@@ -159,7 +157,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 ---
 
-##### ⚙️ PromptEquation (ERP & Data Engineering)
+#### ⚙️ PromptEquation (ERP & Data Engineering)
 
 **Problem.** SMEs needed custom ERP workflows and advanced reporting for operations.  
 **Approach.** Python/Odoo development, PostgreSQL analytics, project management (requirements + budgets).  
@@ -167,9 +165,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 ---
 
-#### 💡 Hackathon & Innovation
+### 💡 Hackathon & Innovation
 
-##### 💡 Aveiro Tech City Hackathon 2024 — Challenge 2 (Bosch Portugal)
+#### 💡 Aveiro Tech City Hackathon 2024 — Challenge 2 (Bosch Portugal)
 
 **Problem.** Industrial process confirmation in assembly lines and workstations is often unreliable in environments with poor internet connectivity. Bosch Portugal set the challenge of creating an autonomous and automatic system that could overcome these constraints.  
 **Approach.** Designed and prototyped a solution using **Arduino Nano 33 BLE Sense sensors** for proximity and condition monitoring, paired with an **ESP32 watch** for communication and user interaction. Two deployment modes were created:  
