@@ -68,7 +68,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 | Molecular Biology | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
 | Seminars Projects | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
 
---
 
 <!-- Primary booking CTA near hero -->
 <p style="margin:1rem 0; clear: both;">
@@ -92,7 +91,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 | **Teaching & Communication** | University lecturing (lab & theory), mentoring BSc/MSc students, outreach & community building, cross-sector collaboration |
 | **Languages** | Portuguese (native), English (advanced – IELTS B2+) |
 
---
 
 <!-- Primary booking CTA near hero -->
 <p style="margin:1rem 0; clear: both;">
@@ -193,7 +191,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 **Outcome.** Delivered a functional prototype during the Hackathon that demonstrated **low-cost IoT feasibility** for industrial process validation. The design was applicable across **gravity-based assembly lines, manual progression lines, and fixed workstations**.  
 **Event.** [Aveiro Tech City Hackathon 2024](https://www.fct.unl.pt/noticias/agenda/2024/09/aveiro-tech-city-hackathon-2024) · [Bosch Portugal Challenge](https://www.it.pt/Events/Event/5652)  
 
---
 
 <!-- Primary booking CTA near hero -->
 <p style="margin:1rem 0; clear: both;">
@@ -214,53 +211,51 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 | **MSc, Cell & Molecular Biology** | Universidade de Aveiro | 2012 – 2014 |
 | **BSc, Biomedical Sciences** | Universidade Católica Portuguesa | 2009 – 2012 |
 
----
 
-### **Advanced Courses**
+#### **Advanced Courses**
 
-#### 2024 - Bioinformatics for P2x Single-cell Genomics
+##### 2024 - Bioinformatics for P2x Single-cell Genomics
 
 - **Focus**: Single-cell analysis, wet lab techniques, data analysis in Python and R.
 - **Skills**: Single-cell RNA sequencing, data visualization, bioinformatics pipeline development, Python and R programming.
 - **Certificate**: [Bioinformatics for P2x Single-cell Genomics](https://www.p2xcost.eu/who-are-we/)
 
-#### 2024 - Statistical Learning with Python
+##### 2024 - Statistical Learning with Python
 
 - **Focus**: Supervised learning, regression, classification, tree-based methods.
 - **Skills**: Ridge/Lasso, splines, SVMs, neural networks, PCA, clustering.
 - **Certificate**: [Statistical Learning with Python](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python)
 
-#### 2022 - Data Science
+##### 2022 - Data Science
 
 - **Focus**: Data preparation, machine learning, and deep learning.
 - **Skills**: Model evaluation, comparison, Industry 4.0 applications.
 - **Certificate**: [Data Science](https://www.unave.pt/wp-content/uploads/2021/10/folheto_DataScience.pdf)
 
-#### 2019 - Data Analysis Using R
+##### 2019 - Data Analysis Using R
 
 - **Focus**: Data analysis in R.
 - **Skills**: Data manipulation, visualization, using R libraries.
 - **Certificate**: [Data Analysis Using R](https://www.ua.pt/en/news/8/83028)
 
-#### 2019 - Experimental Design and Analysis of Multivariate Data
+##### 2019 - Experimental Design and Analysis of Multivariate Data
 
 - **Focus**: Multivariate data analysis and experimental design.
 - **Skills**: Clustering, hypothesis testing, using PRIMER v6 and PERMANOVA+.
 - **Certificate**: [Experimental Design and Analysis of Multivariate Data](https://www.ua.pt/file/63125)
 
-#### 2018 - Computational Biology
+##### 2018 - Computational Biology
 
 - **Focus**: Computational biology for biologists and exact scientists.
 - **Skills**: Applied mathematics, physics for biology, mini-research projects.
 - **Certificate**: [Computational Biology](https://www.uc.pt/en/events/computationalbiology/)
 
-#### 2015 - Clinical Investigator Certification
+##### 2015 - Clinical Investigator Certification
 
 - **Focus**: Standardizing clinical research training in Europe.
 - **Skills**: Pharmaceutical medicine, clinical research infrastructure.
 - **Certificate**: [CLIC Certificate](https://www.nms.unl.pt/en-us/education/programs/advanced-training/programa-clic-nivel-1-en-us)
 
---
 
 <!-- Primary booking CTA near hero -->
 <p style="margin:1rem 0; clear: both;">
