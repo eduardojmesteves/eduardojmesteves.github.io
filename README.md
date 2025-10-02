@@ -69,16 +69,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 | Seminars Projects | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
 
 <p>
-<!-- Primary booking CTA near hero -->
-<p style="margin:1rem 0; clear: both;">
-  <a href="https://your-booking-link" class="pill"
-     style="background:#0b5fff;color:#fff;border-color:#0b5fff;"
-     target="_blank" rel="noopener noreferrer">
-    📆 Book a strategy session →
-  </a>
+    <!-- Primary booking CTA near hero -->
+    <p style="margin:1rem 0; clear: both;">
+    <a href="https://your-booking-link" class="pill"
+        style="background:#0b5fff;color:#fff;border-color:#0b5fff;"
+        target="_blank" rel="noopener noreferrer">
+        📆 Book a strategy session →
+    </a>
+    </p>
 </p>
-</p>
----
+
 
 ### Skills
 
